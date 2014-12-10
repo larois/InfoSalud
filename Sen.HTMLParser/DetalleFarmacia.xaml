@@ -1,0 +1,48 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sen.HTMLParser.DetalleFarmacia"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <StackPanel x:Name="LayoutRoot" Background="White">
+        <TextBlock Text="InfoSalud" FontSize="27" Margin="20,10,0,0" Foreground="#FF59B0F4"/>
+        <TextBlock Text="Farmacias de Turno" FontSize="35" Margin="20,10,0,0" Foreground="#FFFF3F42"/>
+       
+        <TextBlock Text="Nombre de Farmacia" Foreground="#FF5B5B5B" FontSize="25" Margin="20,20,0,0"/>
+        <TextBlock Name="txtNombre" Foreground="Gray" Margin="40,0,0,0" FontSize="22"/>
+
+        <TextBlock Text="Comuna" Foreground="#FF5B5B5B" FontSize="25" Margin="20,20,0,0"/>
+        <TextBlock Name="txtCuidad" Foreground="Gray" Margin="40,0,0,0" FontSize="22"/>
+
+        <TextBlock Text="Direccion" Foreground="#FF5B5B5B" FontSize="25" Margin="20,20,0,0"/>
+        <TextBlock Name="txtDireccion" Foreground="Gray" Margin="40,0,0,0" FontSize="22"/>
+
+        <TextBlock Text="Hora de apertura" Foreground="#FF5B5B5B" FontSize="25" Margin="20,20,0,0"/>
+        <TextBlock Name="txtApertura" Foreground="Gray" Margin="40,0,0,0" FontSize="22"/>
+
+        <TextBlock Text="Hora de cierre" Foreground="#FF5B5B5B" FontSize="25" Margin="20,20,0,0"/>
+        <TextBlock Name="txtCierre" Foreground="Gray" Margin="40,0,0,0" FontSize="22"/>
+
+        <TextBlock Text="Telefono" Foreground="#FF5B5B5B" FontSize="25" Margin="20,20,0,0"/>
+        <HyperlinkButton Name="txtTelefono" Content="" Foreground="Gray" Margin="40,0,0,0" HorizontalAlignment="Left" FontSize="22" Click="call_Click" />
+
+
+    </StackPanel>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar BackgroundColor="Red"  IsVisible="True" IsMenuEnabled="True" >
+            <shell:ApplicationBarIconButton Click="Info_Click"  Text="Informanos" IconUri="/Images/Warning.png" />
+            <shell:ApplicationBarIconButton Click="como_Click"  Text="como llegar" IconUri="/Images/here.png" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

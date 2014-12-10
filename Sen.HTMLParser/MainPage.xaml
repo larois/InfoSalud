@@ -1,0 +1,69 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sen.HTMLParser.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:telerikCore="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Core"
+    xmlns:telerikPrimitives="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Primitives"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <TextBlock Name="txtName" Text="InfoSalud" FontSize="27" Margin="20,10,0,686" Foreground="#FF59B0F4"/>
+        <Image x:Name="MyImage" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="50" Margin="251,0,0,0"/>
+        <phone:Pivot  Foreground="#FFFF3F42" Margin="0,17,0,0">
+            <phone:PivotItem Header="Escanear">
+                <Grid Name="stkPanel">
+                    <StackPanel  Margin="0,0,0,94">
+                        <StackPanel Name="fotoQla" Height="480" Width="430">
+                            <Canvas x:Name="viewfinderCanvas" Height="410" RenderTransformOrigin="0.5,0.5"  UseLayoutRounding="False" d:LayoutRounding="Auto" Margin="-17,40,-17,0" >
+                                <Canvas.RenderTransform>
+                                    <CompositeTransform Rotation="90"/>
+                                </Canvas.RenderTransform>
+                                <Canvas.Background >
+                                    <VideoBrush x:Name="viewfinderBrush"  />
+                                </Canvas.Background>
+                            </Canvas>
+                        </StackPanel>
+                    </StackPanel>
+                    <Button Name="btnTake" Style="{StaticResource btnScan}"  telerikCore:InteractionEffectManager.IsInteractionEnabled="True"  Click="Take_Click" Margin="0,490,0,0" Width="410" Height="60"/>
+                  
+                </Grid>
+            </phone:PivotItem>
+
+
+            <phone:PivotItem Header="Buscador">
+                <StackPanel>
+                    <TextBlock Text="Nombre del medicamento" FontSize="27" Margin="10,0,0,0" Foreground="Gray"/>
+                    <TextBox Name="txtNombre"  Foreground="#FF9B9B9B" BorderBrush="Gray"/>
+                    <Button Style="{StaticResource btnBuscar}"  telerikCore:InteractionEffectManager.IsInteractionEnabled="True" Click="buscar_Click"  Height="60" Width="410" Margin="0,20,0,0">
+                    </Button>
+                </StackPanel>
+            </phone:PivotItem>
+        </phone:Pivot>
+
+        <telerikPrimitives:RadBusyIndicator Background="#CC000000" 
+                                            x:Name="busyIndicator"
+                                            AnimationStyle="AnimationStyle6" Content="Cargando..." IsRunning="True" Margin="-15,-27,-15,0"                                           
+                                                />
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar BackgroundColor="Red"  IsVisible="True" IsMenuEnabled="True" >
+            <shell:ApplicationBarIconButton Click="hospitales_Click"  Text="centros medicos" IconUri="/Images/Hospital.png" />
+            <shell:ApplicationBarIconButton Click="Drugstore_Click"  Text="Farmacias de Turno" IconUri="/Images/Drugstore.png" />
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="cerrar sesion" Click="cerrar_Click" />
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

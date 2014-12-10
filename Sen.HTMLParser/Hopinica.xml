@@ -1,0 +1,8318 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Records>
+  <record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Servicio"  
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Simple. Pat. PW4076 (Arica)"
+ H="Arturo Prat 305"
+ J="-18.4762402,-70.3189163"
+/></record>
+  <record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Seremi"
+ F="Oficina Sanitaria"
+ G="Oficina Sanitaria Chacalluta"
+ H="Puesto Fronterizo Chacalluta"
+ J="-18.4745502,-70.2930908"
+/></record>
+  <record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Juan Noe Crevanni (Arica)"
+ H="18 de Septiembre 1000"
+ J="-18.4841995,-70.3070526"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Victor Bertin Soto"
+ H="Belen 1635"
+ J="-18.4766502,-70.2974167"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Amador Neghme de Arica"
+ H="Cancha Rayada 4149"
+ J="-18.4380951,-70.2902222"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Iris Veliz Hume (Ex Oriente)"
+ H="Barros Luco 2699 (esquina Las Torres)"
+ J="-18.4858494,-70.2833633"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Putre"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Putre"
+ H="Baquedano 261"
+ J="-18.1975193,-69.5576096"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Remigio Sapunar"
+ H="Silva Arriagada 1020"
+ J="-18.4804516,-70.308342"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Servicio"
+ F="Centro de Salud Urbano"
+ G="Centro de Salud Ambiental de Arica"
+ H="San Martin 253"
+ J="-18.4828835,-70.3162384"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Punta Norte"
+ H="Avda. Linderos Poniente N°4752"
+ J="-18.4496498,-70.2847519"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Camarones"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Codpa"
+ H="Caserio de Codpa"
+ J="18.3437004,-66.1056824"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Sobraya"
+ H="Valle de Azapa Km. 27, Sector Sobraya"
+ J="-18.3596497,-70.3262711"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Servicio"
+ F="Consultorio de Salud Mental"
+ G="ESSMA Norte de Arica"
+ H="La Proveedora (esquina Llacolen)"
+ J="-18.4440002,-70.2923965"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Servicio"
+ F="Consultorio de Salud Mental"
+ G="ESSMA Sur de Arica"
+ H="San Martin 235"
+ J="-18.4829769,-70.31633"
+/></record><record>
+<Row
+ A="15"
+ C="Arica"
+ D="Arica"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Cerro La Cruz"
+ H="Rafael Sotomayor 1496"
+ J="-18.4841099,-70.3146362"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Servicio"
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Simple. Pat. RW6740 (Iquique)"
+ H="Thompson 1846"
+ J="-20.2154579,-70.1377563"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Servicio"
+ F="Clinica en convenio"
+ G="Centro de Rehabilitacion Movil (Iquique)"
+ H="Anibal Pinto N°815"
+ J="-20.2153759,-70.1529846"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Ernesto Torres Galdames (Iquique)"
+ H="Heroes de la Concepcion 502"
+ J="-20.2143364,-70.1387787"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cirujano Aguirre"
+ H="Pasaje 3 Pintados (esquina Avda. Pedro Prado)"
+ J="-20.2331905,-70.1291733"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Cirujano Aguirre"
+ H="Pasaje 3 Pintados (esquina Avda. Pedro Prado)"
+ J="-20.2331905,-70.1291733"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cirujano Videla"
+ H="Obispo Labbe S/N"
+ J="-20.2159405,-70.1502838"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Cirujano Videla"
+ H="Obispo Labbe S/N"
+ J="-20.2159405,-70.1502838"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cirujano Guzman"
+ H="Avda. Pedro Prado 2763"
+ J="-20.2372513,-70.1354904"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Cirujano Guzman"
+ H="Avda. Pedro Prado 2763"
+ J="-20.2372513,-70.1354904"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Pozo Almonte"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Pozo Almonte"
+ H="Aldunate (Esquina Comercio)"
+ J="-20.2581902,-69.7850037"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Pica"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Juan Marquez Vismarra"
+ H="Balmaceda S/N"
+ J="-20.4905796,-69.3275528"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Alto Hospicio"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Pedro Pulgar Melgarejo"
+ H="Los Alamos S/N, Alto Hospicio"
+ J="-20.2681293,-70.1043396"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Alto Hospicio"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Pedro Pulgar Melgarejo"
+ H="Los Alamos S/N, Alto Hospicio"
+ J="-20.2681293,-70.1043396"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Sur de Iquique"
+ H="Calle Playa El Aguila N°S/N"
+ J="-20.2514095,-70.1317062"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Camina"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio General Rural Camina"
+ H="Caserio de Camina"
+ J="51.254018,14.421794"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Colchane"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio General Rural Colchane"
+ H="Sector de Colchane"
+ J="44.2235107,-91.8318863"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Pozo Almonte"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Mamina"
+ H="Santa Rosa S/N, Aldea de Mamina"
+ J="-20.2547493,-69.7839584"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Camina"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Moquella"
+ H="Caserio de Moquella"
+ J="38.7383499,-120.6660995"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Colchane"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Enquelga"
+ H="Sector Enquelga"
+ J="44.2235107,-91.8318863"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Pica"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cancosa"
+ H="Caserio de Cancosa"
+ J="35.4644394,-113.1350174"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Chanavayita"
+ H="Aldea de Chanavayita"
+ J="38.2519798,-78.3989029"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Marcos"
+ H="Localidad de San Marcos"
+ J="-20.7012596,-70.1871185"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Colchane"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cariquima"
+ H="Sector de Cariquima S/N"
+ J="44.2235107,-91.8318863"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Pica"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Matilla"
+ H="Matilla s/n"
+ J="-20.5123005,-69.3675079"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Servicio"
+ F="Consultorio de Salud Mental"
+ G="COSAM Salvador Allende"
+ H="Cespedes (esquina Gonzalez)"
+ J="-20.7590027,-70.0681381"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Alto Hospicio"
+ E="Servicio"
+ F="Consultorio de Salud Mental"
+ G="COSAM Enrique Paris"
+ H="Santa Rosa (Alto Hospicio)"
+ J="-20.1912994,-70.0119019"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Pozo Almonte"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Pozo Almonte"
+ H="Aldunate (esquina Comercio)"
+ J="-20.2581902,-69.7850037"
+/></record><record>
+<Row
+ A="1"
+ C="Iquique"
+ D="Iquique"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Sur de Iquique"
+ H="Avda. Cerro Dragon S/N"
+ J="-20.2493706,-70.1289368"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Servicio"
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Simple. Pat. PW4072 (Antofagasta)"
+ H="Bolivar 523"
+ J="-23.5868435,-70.3849182"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Servicio"
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Triple. Pat. BBZV82 (Antofagasta)"
+ H="Bolivar N°523"
+ J="-23.5868435,-70.3849182"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Leonardo Guzman (Antofagasta)"
+ H="Avda. Argentina 1964"
+ J="-23.6607666,-70.3961945"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Carlos Cisternas (Calama)"
+ H="Carlos Cisternas 2253"
+ J="-22.4590206,-68.9374466"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Tocopilla"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Dr. Marcos Macuada (Tocopilla)"
+ H="Santa Rosa S/N"
+ J="-17.3666992,-63.4832993"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Taltal"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital 21 de Mayo (Taltal)"
+ H="O'Higgins 450"
+ J="-25.4085217,-70.4805374"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Mejillones"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Mejillones"
+ H="Avda. Bernardo O'Higgins 541"
+ J="-23.1034241,-70.4466629"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Servicio"
+ F="Centro de Diagnostico Terapeutico"
+ G="Centro Oncologico Ambulatorio"
+ H="Los Pumas N°10255"
+ J="-23.5694904,-70.3786926"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Laboratorio"
+ G="Laboratorio Clinico COMDES"
+ H="Banados Espinoza N°1850"
+ J="-22.4603596,-68.9261475"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Laboratorio"
+ G="Laboratorio Sarita Nunez"
+ H="Cristobal Colon N°5262"
+ J="-23.6266308,-70.3802185"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Norte de Antofagasta"
+ H="Juan Glasinovic (Esquina Mateo Toro y Zambrano)"
+ J="-23.5973396,-70.3874817"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Antonio Rendic (Ex Cautin)"
+ H="Avda. Rendic 6071"
+ J="-23.6160564,-70.3829117"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Corvallis"
+ H="Avda. Salvador Allende 1370"
+ J="-23.6266594,-70.3696976"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Corvallis"
+ H="Avda. Salvador Allende 1370"
+ J="-23.6266594,-70.3696976"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Centro Sur de Antofagasta"
+ H="Pasaje Niebla 850"
+ J="-23.6670513,-70.4033203"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Juan Pablo II de Antofagasta"
+ H="Teniente Julio Montt Salamanca S/N"
+ J="-23.5816708,-70.3811874"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Juan Pablo II de Antofagasta"
+ H="Teniente Julio Montt Salamanca S/N"
+ J="-23.5816708,-70.3811874"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Central de Calama"
+ H="Felix Hoyos S/N"
+ J="-22.4580898,-68.9256516"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Montt"
+ H="Avda. Granaderos 3968"
+ J="-22.4386215,-68.9265137"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Norte de Calama"
+ H="Avda. Granaderos 3968"
+ J="-22.4386215,-68.9265137"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Alemania de Calama"
+ H="Colonia 2611"
+ J="35.58395,-115.3705902"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Alemania de Calama"
+ H="Colonia 2611"
+ J="35.58395,-115.3705902"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Central Oriente de Antofagasta"
+ H="Avda. Circunvalacion S/N"
+ J="-23.6142902,-70.3751373"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Maria Elena"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Maria Elena"
+ H="Diego de Almagro S/N"
+ J="-22.3413906,-69.6637497"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="San Pedro de Atacama"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio San Pedro Atacama"
+ H="Atacama S/N"
+ J="-23.1902504,-68.0058365"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Servicio"
+ F="Centro de Referencia de Salud"
+ G="Centro Asistencial Norte"
+ H="Los Pumas 10.255"
+ J="-23.5694904,-70.3786926"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Sierra Gorda"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Baquedano"
+ H="Salvador Allende 112, Aldea de Baquedano"
+ J="37.3582344,-121.8357239"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Sierra Gorda"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Sierra Gorda"
+ H="Salvador Allende 211, Aldea de Sierra Gorda"
+ J="37.3582344,-121.8357239"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="San Pedro de Atacama"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Toconao"
+ H="Aldea de Toconao"
+ J="-22.9137096,-68.1994629"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="San Pedro de Atacama"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Socaire"
+ H="Sector de Socaire"
+ J="-22.9134903,-68.1945496"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Caspana"
+ H="Sector de Caspana"
+ J="-22.4407902,-68.9228973"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Ayquina"
+ H="San Roque 321, Sector de Ayquina"
+ J="35.58395,-115.3705902"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Chiu-Chiu"
+ H="Esmeralda S/N, Sector Chiu-Chiu"
+ J="35.58395,-115.3705902"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Taltal"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Paposo"
+ H="Caserio de Paposo"
+ J="33.1313286,-97.0457306"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Servicio"
+ F="Consultorio de Salud Mental"
+ G="COSAM Calama"
+ H="Avda. Argentina N°2610"
+ J="-22.4543705,-68.9299545"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Servicio"
+ F="Consultorio de Salud Mental"
+ G="Centro de Salud Mental Comunitaria Sur de Antofagasta"
+ H="Antonio Varas 1222"
+ J="-23.6691895,-70.3980484"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Servicio"
+ F="Consultorio de Salud Mental"
+ G="Centro de Salud Mental Comunitario Central"
+ H="Avda. Rendic N°6071"
+ J="-23.6160564,-70.3829117"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Sur"
+ H="Avda. Bernardo O`Higgins S/N"
+ J="-22.4806709,-68.9298706"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Calama"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Alemania"
+ H="Chacabuco 3076, Villa 23 de Marzo"
+ J="-22.4578972,-68.9399109"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Norte de Antofagasta"
+ H="Juan Glasinovic (esquina Mateo Toro y Zambrano)"
+ J="-23.5973396,-70.3874817"
+/></record><record>
+<Row
+ A="2"
+ C="Antofagasta"
+ D="Antofagasta"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Antonio Rendic"
+ H="Avda. Rendic 071"
+ J="-23.6270809,-70.3894501"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Servicio"
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Simple. Pat. PW4068 (Copiapo)"
+ H="Chacabuco 520, 2- Piso"
+ J="-27.3656921,-70.3320999"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital San Jose del Carmen (Copiapo)"
+ H="Los Carrera 1320"
+ J="-27.3937607,-70.2984085"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Diego de Almagro"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Dr. Florencio Vargas (Diego de Almagro)"
+ H="Juan Martinez 2200"
+ J="-26.3925343,-70.0514297"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital Provincial del Huasco Monsenor Fernando Ariztia Ruiz (Vallenar)"
+ H="Merced S/N"
+ J="-28.5741901,-70.7595901"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Huasco"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Dr. Manuel Magalhaes Medling (Huasco)"
+ H="Canteras 105"
+ J="35.1227989,-120.3939972"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Salud Familiar Santa Elvira"
+ H="Los Aromos S/N"
+ J="-27.3815403,-70.319458"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Caldera"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Rosario Corvalan"
+ H="Canal de Beagle S/N"
+ J="-27.0722103,-70.8263397"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Juan Martinez"
+ H="Avda. Batallon Atacama S/N"
+ J="-27.0681896,-70.8139725"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Pedro Leon Gallo"
+ H="Flora Normilla 1007"
+ J="-27.3602962,-70.3269653"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Rosario-Palomar"
+ H="Chacabuco 671"
+ J="-27.3641224,-70.330864"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Candelaria Rosario"
+ H="Vallenar Pob. Rosario"
+ J="-27.3756008,-70.3394012"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Manuel Rodriguez"
+ H="Luis Flores S/N"
+ J="-27.3846798,-70.3240967"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Paipote"
+ H="Avda. Las Delicias S/N"
+ J="-27.4138107,-70.2705002"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Tierra Amarilla"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Centro de Salud Salvador Allende Gossens"
+ H="Lorenzo Jofre S/N"
+ J="36.6993103,-106.5510483"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Chanaral"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Luis Herrera"
+ H="Merino Jarpa (esquina Casimiro Domeyko)"
+ J="-26.3447895,-70.6205368"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Estacion"
+ H="Ramirez (Esquina Erasmo Escala)"
+ J="-28.5748005,-70.7602463"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Freirina"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Freirina"
+ H="Santiago Zavala S/N"
+ J="-28.5093498,-71.0751266"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Hermanos Carrera"
+ H="Avda. Lautaro S/N"
+ J="-28.5695896,-70.7652817"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Baquedano"
+ H="Avda. Peru S/N"
+ J="-28.5785904,-70.7452469"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Joan Crawford Astudillo"
+ H="Avda. Espana S/N"
+ J="-28.5918808,-70.7461472"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Huasco"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Juan Verdaguer"
+ H="Maipu (esquina Las Heras)"
+ J="-28.4691391,-71.2193527"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Copiapo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Bernardo Mellibovsky"
+ H="Avda. Los Loros S/N"
+ J="-27.3791904,-70.3045273"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Alto del Carmen"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Alto del Carmen"
+ H="Jeronimo Godoy 6"
+ J="-28.7588692,-70.4872589"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Tierra Amarilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Los Loros"
+ H="Ferrocarril S/N, Aldea Los Loros"
+ J="36.6993103,-106.5510483"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Alto del Carmen"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Felix"
+ H="Aldea de San Felix"
+ J="6.28333,-75.4000015"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Alto del Carmen"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Transito"
+ H="Aldea de El Transito"
+ J="31.6080399,-110.8750076"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Domeyko"
+ H="Pedro Cuadra S/N, Aldea de Domeyko"
+ J="37.6134987,-122.4810028"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Alto del Carmen"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Conay"
+ H="Caserio Conay"
+ J="31.6080399,-110.8750076"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Hacienda Ventanas"
+ H="Sector Hacienda Ventanas"
+ J="37.6134987,-122.4810028"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Freirina"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Carrizalillo (Freirina)"
+ H="Sector Carrizalillo"
+ J="18.1763,-65.8541031"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Incahuasi"
+ H="Luis Pasteur S/N, Caserio de Inaguasi"
+ J="37.6134987,-122.4810028"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Vallenar"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Hacienda Compania"
+ H="Aldea Hacienda Compania"
+ J="37.6134987,-122.4810028"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Huasco"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Carrizal Bajo"
+ H="Caserio Carrizal Bajo"
+ J="35.1227989,-120.3939972"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Alto del Carmen"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Breas (Alto del Carmen)"
+ H="Caserio Las Breas"
+ J="31.6080399,-110.8750076"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Huasco"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Canto del Agua"
+ H="Caserio Canto del Agua"
+ J="35.1227989,-120.3939972"
+/></record><record>
+<Row
+ A="3"
+ C="Atacama"
+ D="Huasco"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Jeremias Cortes"
+ H="Sector Pedro Aguirre Cerda"
+ J="-28.4639606,-71.2287598"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Servicio"
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Triple. Pat. PW4100 (Monte Patria)"
+ H="Balmaceda N°110 Monte Patria"
+ J="-30.6952953,-70.9576111"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital San Juan de Dios (La Serena)"
+ H="Balmaceda 916"
+ J="-29.9110394,-71.2505417"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital San Pablo (Coquimbo)"
+ H="Avda. Videla S/N, Coquimbo"
+ J="-29.96348,-71.3364487"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Antonio Tirado Lanas (Ovalle)"
+ H="Ariztia Poniente N°7, Ovalle"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital Dr. Humberto Elorza Cortez (Illapel)"
+ H="Independencia N°0512, Illapel"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Salamanca"
+ H="Matilde Salamanca N°0113"
+ J="40.950669,-5.678533"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Vicuna"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital San Juan de Dios (Vicuna)"
+ H="Ignacio Carrera Pinto S/N"
+ J="-30.0301704,-70.7121964"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Los Vilos"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital San Pedro (Los Vilos)"
+ H="Arauco 400"
+ J="-31.9146729,-71.5137558"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cardenal Caro"
+ H="Avda. 4 Esquinas S/N, La Serena"
+ J="-29.9509201,-71.2302094"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Pedro Aguirre Cerda"
+ H="Emilio Bello N°918"
+ J="-29.9154396,-71.2185135"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Pedro Aguirre Cerda"
+ H="Emilio Bello N°918"
+ J="-29.9154396,-71.2185135"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Santa Cecilia"
+ H="Las Heras 1100, Parte Alta"
+ J="-29.9515705,-71.3408585"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Santa Cecilia"
+ H="Las Heras 1100, Parte Alta"
+ J="-29.9515705,-71.3408585"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Tierras Blancas"
+ H="Linares 915"
+ J="-29.9622135,-71.2555923"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Tierras Blancas"
+ H="Linares 915"
+ J="-29.9622135,-71.2555923"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Paiguano"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Paiguano"
+ H="Balmaceda S/N"
+ J="-30.0277691,-70.5168228"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Monte Patria"
+ H="Poniu N°80"
+ J="-30.6967201,-70.9585876"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Punitaqui"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Punitaqui"
+ H="Carlos Galleguillos S/N"
+ J="-30.8330593,-71.2553635"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Canela"
+ H="Joel Munoz N°495"
+ J="31.5334892,-110.5022278"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Canela"
+ H="Joel Munoz N°495"
+ J="31.5334892,-110.5022278"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Rio Hurtado"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Pichasca"
+ H="Calle Unica S/N, Pichasca"
+ J="-30.3939209,-70.8847122"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Chanaral Alto"
+ H="Bernardo O'Higgins S/N"
+ J="-30.8833694,-71.0129395"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Caren"
+ H="Mac Iver S/N"
+ J="19.5133305,-99.1312408"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Emilio Schaffhauser"
+ H="Avda. Francisco de Aguirre S/N, La Serena."
+ J="-29.9057102,-71.2733383"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Cerrillos Tamaya"
+ H="Cerrillos de Tamaya S/N"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Jorge Jordan Domic"
+ H="Magallanes Moure N°794"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Jorge Jordan Domic"
+ H="Magallanes Moure N°794"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio El Palqui"
+ H="Pedro Leon Gallo S/N"
+ J="-30.7793503,-70.9490204"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cardenal Raul Silva Henriquez de La Serena"
+ H="Avda. La Paz S/N, El Tofo"
+ J="-29.8823605,-71.2277374"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Raul Silva Henriquez de La Serena"
+ H="Avda. La Paz S/N, El Tofo"
+ J="-29.8823605,-71.2277374"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Tongoy"
+ H="Fundicion Norte N°127, Tongoy"
+ J="-30.2561703,-71.4940491"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Marcos Macuada"
+ H="Covarrubias N°260, Ovalle"
+ J="-30.5969791,-71.2005692"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Marcos Macuada"
+ H="Covarrubias N°260, Ovalle"
+ J="-30.5969791,-71.2005692"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Sergio Aguilar Delgado"
+ H="Avda. Alessandri 1035 esquina Lenox"
+ J="-29.9668598,-71.3405304"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Sotaqui"
+ H="Camino al Guindo S/N"
+ J="-30.6472206,-71.1042023"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Villa San Rafael de Rozas"
+ H="Mario Ahumada N°50"
+ J="-31.6392994,-71.1926117"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Rojas"
+ H="Calle Principal Las Rojas"
+ J="-29.9116192,-71.2548065"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Romero"
+ H="Ruta al Romero, Aldea Romero"
+ J="-29.9004707,-71.2414322"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Tangue"
+ H="Sector El Tangue"
+ J="-30.2287998,-71.3598022"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Barraza"
+ H="Calle unica Barraza"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Camarico (Ovalle)"
+ H="Camino publico Camarico"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Alcones Bajo"
+ H="Sector Alcones Bajo"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Sossas"
+ H="Calle unica Las Sossas"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Limari"
+ H="Camino Publico Limari"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Hornillos"
+ H="Calle unica Hornillos"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Huatulame"
+ H="Carretera S/N"
+ J="19.8138103,-104.2302628"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pedregal"
+ H="Calle unica Pedregal"
+ J="42.6172981,-74.4281998"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Combarbala"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Lorenzo (Combarbala)"
+ H="San Lorenzo S/N"
+ J="-31.0377007,-71.0429001"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Combarbala"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Marcos (Combarbala)"
+ H="Sector San Marcos"
+ J="-31.1469002,-70.9656982"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Maiten"
+ H="Calle unica El Maiten"
+ J="42.6172981,-74.4281998"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Chalinga"
+ H="Sector Chalinga"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cerro Blanco"
+ H="Sector Cerro Blanco"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Punitaqui"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Pedro de Quiles"
+ H="Sector San Pedro de Quiles"
+ J="-30.9463005,-71.3330994"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Carcamo"
+ H="Sector Carcamo"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Huintil"
+ H="Sector Huintil"
+ J="-31.6392097,-71.1890488"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Limahuida"
+ H="Sector Limahuida"
+ J="-31.7498894,-71.1656113"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Matancilla"
+ H="Calle unica Matancilla"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Peralillo Illapel"
+ H="Calle unica Peralillo"
+ J="-31.7383194,-71.1233292"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Virginia"
+ H="Sector Santa Virginia"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Tunga Norte"
+ H="Sector Tunga Norte"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Mincha Norte"
+ H="Sector Mincha Norte"
+ J="31.5334892,-110.5022278"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Agua Fria"
+ H="Sector Agua Fria"
+ J="-29.3470993,-50.7753983"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cuncumen(Salamanca)"
+ H="Camino Publico Cuncumen"
+ J="42.1748886,-78.7477112"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Tranquilla"
+ H="Aldea Tranquilla"
+ J="40.8046532,-6.0638108"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cunlagua"
+ H="Sector Cunlagua"
+ J="40.8046532,-6.0638108"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Chillepin"
+ H="Sector Chillepin"
+ J="40.8046532,-6.0638108"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Llimpo"
+ H="Sector Llimpo"
+ J="40.8046532,-6.0638108"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Agustin (Salamanca)"
+ H="Aldea San Agustin"
+ J="20.2134571,-101.1404266"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Tahuinco"
+ H="Aldea Tahuinco"
+ J="40.8046532,-6.0638108"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Combarbala"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Ligua"
+ H="La Ligua S/N"
+ J="-31.0432091,-71.0471497"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Vicuna"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Talcuna"
+ H="Calle Los Alamos S/N"
+ J="6.2407799,-75.5727234"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Vicuna"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Chapilca"
+ H="Calle Las Rosas S/N"
+ J="-30.0221195,-70.6214218"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Paiguano"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Monte Grande"
+ H="Calle unica Montegrande"
+ J="-30.0337601,-70.5123672"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Los Vilos"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Caimanes"
+ H="Pedro Aguirre Cerda S/N, Aldea Caimanes"
+ J="-33.4932594,-70.6805115"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Los Vilos"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Tilama"
+ H="Camino Publico Tilama"
+ J="46.0528908,-89.5147476"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Canela Alta"
+ H="Sector Canela Alta"
+ J="-31.3903904,-71.3813782"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Los Rulos"
+ H="Sector Los Rulos"
+ J="-31.3120708,-71.2255173"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Huentelauquen"
+ H="Sector Huentelauquen"
+ J="-31.5904102,-71.5299301"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Plan de Hornos"
+ H="Sector Plan de Hornos"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Tunga Sur"
+ H="Sector Tunga Sur"
+ J="-31.6745605,-71.2867279"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Canas Uno"
+ H="Aldea Canas Uno"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Espiritu Santo"
+ H="Sector Espiritu Santo"
+ J="31.5334892,-110.5022278"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Monte Patria"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Ramadas de Tulahuen"
+ H="Camino Unico Ramadas"
+ J="42.6172981,-74.4281998"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Quelen Bajo"
+ H="Camino unico Quelen Bajo"
+ J="42.1748886,-78.7477112"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Camisa"
+ H="Sector Camisa"
+ J="40.8046532,-6.0638108"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Mincha Sur"
+ H="Aldea Mincha Norte"
+ J="31.5334892,-110.5022278"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pintacura Sur"
+ H="Sector Pintacura Sur"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Jaboneria"
+ H="Sector Jaboneria"
+ J="31.5334892,-110.5022278"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Canela"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Quebrada Linares"
+ H="Sector Quebrada Linares"
+ J="31.5334892,-110.5022278"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Lambert"
+ H="Calle unica Lambert"
+ J="-29.9146709,-71.2481766"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Higuera"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Caleta Hornos"
+ H="Las Palmeras Caleta Hornos"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Salamanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Arboleda Grande"
+ H="Camino unico Arboleda Grande"
+ J="42.1748886,-78.7477112"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Vicuna"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Calingasta"
+ H="Calle Miraflores N°133"
+ J="-30.0225296,-70.693428"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Illapel"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Socavon"
+ H="Sector Socavon"
+ J="47.6126289,-122.596962"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Huamalata"
+ H="Pueblo de Huamalata"
+ J="-30.6096191,-71.2235489"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Vicuna"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Gualliguaica"
+ H="Calle Principal N°s/n"
+ J="-30.0225296,-70.6340485"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Sanud Rural Recoleta"
+ H="Camino Publico N°S/N"
+ J="29.0567303,-81.1818466"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Los Vilos"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Los Condores"
+ H="CALLE S/N"
+ J="37.37323,-102.447403"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="Centro Comunitario de Salud Mental Tierras Blancas (CESAM)"
+ H="Linares N°895, Tierras Blancas"
+ J="-29.9622803,-71.2563858"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Villa el Indio"
+ H="Las Lucumas S/N"
+ J="4.5785699,-74.2027664"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Villa Alemania"
+ H="Antonio Herreros 2834"
+ J="-29.8712196,-71.2384033"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Lambert"
+ H="Pasaje Ernestina Aguirre N°4270, Villa Lambert. Compania Alto"
+ J="-29.8864021,-71.2261658"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar San Jose de la Dehesa"
+ H="Soldado Sanchez S/N"
+ J="-30.6039696,-71.2152176"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Ovalle"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Limari"
+ H="Diaguitas N°1328"
+ J="-30.59058,-71.1829529"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Las Companias"
+ H="Esmeralda S/N, Compania Alta"
+ J="-29.8777695,-71.2463226"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="Coquimbo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Dr. Sergio Aguilar"
+ H="Alessandri esquina Lenox N°1035"
+ J="-29.9668598,-71.3405304"
+/></record><record>
+<Row
+ A="4"
+ C="Coquimbo"
+ D="La Serena"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Cardenal Caro"
+ H="Pampa Baja S/N"
+ J="-29.9246597,-71.254097"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Servicio"
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Triple. Pat. PW4101 (Valparaiso)"
+ H="Brasil 1435"
+ J="-33.0441132,-71.6214371"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Servicio"
+ F="Centro de Referencia de Salud"
+ G="Centro de Referencia de Salud Odontologica"
+ H="Brasil 1435"
+ J="-33.0441132,-71.6214371"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Carlos Van Buren (Valparaiso)"
+ H="San Ignacio (esquina Colon)"
+ J="2.48505,-76.5740204"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Eduardo Pereira Ramirez (Valparaiso)"
+ H="Ibsen S/N"
+ J="-33.0560493,-71.5906372"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Claudio Vicuna ( San Antonio)"
+ H="Carmen Guerrero 945"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital Del Salvado (Valparaiso)"
+ H="Subida Carvallo 200"
+ J="-33.0193138,-71.6408539"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Casablanca"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital San Jose (Casablanca)"
+ H="Yungay 124"
+ J="33.9331017,-117.4029999"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Servicio"
+ F="Centro de Diagnostico Terapeutico"
+ G="Centro de Sangre y Tejidos IV y V Region"
+ H="Blas Cuevas 985, Valparaiso"
+ J="-33.043251,-71.63517"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Jean y Marie Thierry"
+ H="Blas Cuevas 985, Valparaiso"
+ J="-33.043251,-71.63517"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Esperanza"
+ H="Galvarino N°7, Cerro Esperanza"
+ J="-33.0536385,-71.578125"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Baron"
+ H="Blanco Viel 661, Cerro Baron"
+ J="-33.0389252,-71.6008606"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Reina Isabel II"
+ H="Avda. Washington 1926, Cerro O'Higgins"
+ J="-33.0792084,-71.5836334"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Las Canas"
+ H="Los Alerces S/N, Cerro Las Canas"
+ J="-33.0582695,-71.6070099"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Marcelo Mena"
+ H="Avda. Alemania N°5360, Cerro Carcel"
+ J="-33.0487938,-71.6311264"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Servicio"
+ F="Centro de Salud Urbano"
+ G="Consultorio Plaza Justicia"
+ H="Plaza Justicia N°99, Valparaiso."
+ J="-33.0397453,-71.6302185"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Cordillera"
+ H="Castillo 656, Cerro Cordillera"
+ J="-33.0418091,-71.6338272"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Quebrada Verde"
+ H="Quebrada Verde 1405, Cerro Playa Ancha"
+ J="-33.0325813,-71.6398773"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Quebrada Verde"
+ H="Quebrada Verde 1405, Cerro Playa Ancha"
+ J="-33.0325813,-71.6398773"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Puertas Negras"
+ H="Pob. Montedonico S/N, Cerro Playa Ancha"
+ J="41.4677582,-87.0613785"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar San Antonio"
+ H="Carmen Guerrero 945, San Antonio"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Barrancas"
+ H="Barros Luco N°2370"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Cartagena"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Cartagena"
+ H="Crescente Errazuriz 665"
+ J="27.9585991,-82.4658966"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Cartagena"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Cartagena"
+ H="Crescente Errazuriz 665"
+ J="27.9585991,-82.4658966"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="El Quisco"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio El Quisco"
+ H="Isidoro Dubornais 250"
+ J="-33.4211617,-71.6945724"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Nestor Fernandez Thomas"
+ H="Jose Miguel Carrera N°1015"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Rodelillo"
+ H="Tierras Rojas S/N, Cerro Rodelillo"
+ J="-33.0558395,-71.5825577"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar 30 de Marzo"
+ H="Brockman 1700, 30 de Marzo"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Delegado"
+ F="Centro de Salud Urbano"
+ G="Consultorio Policlinica Diocesana"
+ H="Chacabuco N°1701"
+ J="-33.0458641,-71.6189804"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Santo Domingo"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Centro de Salud Rural Rocas de Santo Domingo"
+ H="Las Hortensias N°146"
+ J="35.5149994,-106.3583679"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="El Tabo"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Centro de Salud Rural El Tabo"
+ H="Avda. San Marcos 729, El Tabo"
+ J="-33.4567108,-71.6619186"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Laguna Verde"
+ H="Galvarino s/n, Pueblo Laguna Verde"
+ J="-33.1036682,-71.6671295"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Casablanca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Los Maitenes"
+ H="Caserio Los Maitenes"
+ J="33.9331017,-117.4029999"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Cartagena"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Lo Zarate"
+ H="Caserio Lo Zarate"
+ J="37.6024017,-0.97158"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Santo Domingo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Bucalemu (Santo Domingo)"
+ H="Sector Bucalemu"
+ J="19.019825,-70.7928543"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Cartagena"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Lo Abarca"
+ H="Aldea Lo Abarca"
+ J="37.6024017,-0.97158"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Cartagena"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Sebastian"
+ H="Sector San Sebastian"
+ J="37.624341,-0.778572"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Santo Domingo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Convento"
+ H="Sector El Convento"
+ J="19.019825,-70.7928543"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Santo Domingo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Enrique"
+ H="Sector San Enrique"
+ J="19.019825,-70.7928543"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="El Tabo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Cruces (El Tabo)"
+ H="Lincoln 174, Las Cruces"
+ J="-33.4957008,-71.6261673"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Asilo"
+ H="Caserio El Asilo"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cuncumen (San Antonio)"
+ H="Aldea Councumen"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Juan de San Antonio"
+ H="Sector San Juan de San Antonio"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Leyda"
+ H="Aldea Leyda"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Cartagena"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Turco"
+ H="Caserio El Turco"
+ J="37.6024017,-0.97158"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Lo Gallardo"
+ H="Avda. San Juan 2698, Sector Lo Gallardo"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Porvenir Bajo"
+ H="Contulmo (ex calle 23) (esquina Calle Tubul (ex calle 25))"
+ J="-38.0527,-73.2124023"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="El Quisco"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Isla Negra"
+ H="Isidoro Dubournais N°4100"
+ J="-33.3847961,-71.6890182"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Tejas Verdes"
+ H="Los Claveles 347"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Manuel Bustos Huerta"
+ H="Agustin Kropp (esquina Pasaje San Pedro)"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="Valparaiso"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Placilla"
+ H="Avda. Central S/N"
+ J="-33.112339,-71.5677109"
+/></record><record>
+<Row
+ A="5"
+ C="Valparaiso San Antonio"
+ D="San Antonio"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Nestor Fernandez Thomas"
+ H="Jose Miguel Carrera 1015"
+ J="29.4245796,-98.4946136"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Servicio"
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Triple. Pat. PW4102 (Vina del Mar )"
+ H="Alvarez 1600"
+ J="-33.0345001,-71.5315628"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Gustavo Fricke (Vina del Mar)"
+ H="Alvarez 1532"
+ J="-33.0292587,-71.5412216"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quillota"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital San Martin (Quillota)"
+ H="Concepcion 1050"
+ J="-32.880249,-71.2535934"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital de Quilpue"
+ H="San Martin 1270"
+ J="-33.0520477,-71.4335175"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Calera"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Dr. Mario Sanchez Vergara (La Calera)"
+ H="Carrera 1603"
+ J="33.9328194,-96.4270782"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Limache"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Santo Tomas (Limache)"
+ H="Carelmapu S/N"
+ J="-32.9977303,-71.2717819"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Ligua"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital San Agustin (La Ligua)"
+ H="Portales 1020"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Cabildo"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Dr. Victor Hugo Moll (Cabildo)"
+ H="Zoila Gac (esquina Anibal Pinto)"
+ J="-32.4286919,-71.0691223"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Petorca"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Petorca"
+ H="Manuel Montt 860"
+ J="-32.2516899,-70.9288254"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quintero"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Adriana Cousino (Quintero)"
+ H="Aranguiz Tudela 380"
+ J="-32.7790794,-71.5301666"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Villa Alemana"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Juana Ross de Edwards (Penablanca, Villa Alemana)"
+ H="Sargento Aldea 660"
+ J="-33.0409546,-71.3572769"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Limache"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Centro Geriatrico Paz de la Tarde (Limache)"
+ H="Caupolican 198"
+ J="-32.9894104,-71.2730713"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Nueva Aurora"
+ H="Agua Santa S/N, Parada 5, Nueva Aurora"
+ J="-33.0353203,-71.5456619"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cienfuegos"
+ H="21 Norte (esquina Calle 7, Santa Ines)"
+ J="-33.0049515,-71.5398865"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Gomez Carreno"
+ H="19 Poniente S/N, Gomez Carreno"
+ J="-32.9849701,-71.5291138"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Marco Maldonado"
+ H="Alvarez 1682"
+ J="-33.0294724,-71.54039"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Con Con"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Concon"
+ H="Chanarcillo N°1150"
+ J="39.7466698,-121.4924011"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Quilpue"
+ H="Covadonga 1490"
+ J="-33.0506439,-71.4335632"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio El Belloto"
+ H="Troncos Viejos (esquina El Alba, Belloto Sur)"
+ J="-33.0605392,-71.4088898"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-El Belloto"
+ H="Troncos Viejos (esquina El Alba, Belloto Sur)"
+ J="-33.0605392,-71.4088898"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Villa Alemana"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Villa Alemana"
+ H="Avda. Quinta 032"
+ J="-33.0376015,-71.3649063"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quillota"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Dr. Miguel Concha"
+ H="Maipu N°902"
+ J="-32.8792381,-71.2504807"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Cruz"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio La Cruz"
+ H="Avda. 21 de Mayo N°5010"
+ J="-32.8443718,-71.2305069"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Lusitania"
+ H="Garcia Lorca 101, Miraflores Alto"
+ J="-33.0371819,-71.5304413"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Olmue"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Manuel Lucero. Olmue"
+ H="Calle Lo Rojas N°2250"
+ J="-32.9927902,-71.1808395"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Calera"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Artificio"
+ H="Camilo Henriquez N°88"
+ J="-32.7761383,-71.1897278"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Hijuelas"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Hijuelas"
+ H="Manuel Rodriguez 465"
+ J="-32.8247108,-71.1289368"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Nogales"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Nogales"
+ H="Manuel Aldunate N°S/N"
+ J="31.3253193,-110.9526672"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Nogales"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar El Melon"
+ H="Gustavo Filippi Murato N°601"
+ J="31.3378296,-110.9400635"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Juan Carlos Baeza"
+ H="Avda. Tamarugal 350, El Olivar"
+ J="-33.0281296,-71.4916687"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Brigida Zavala"
+ H="Blanca Vergara 1794, Forestal Alto"
+ J="-33.0368614,-71.5437317"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Las Torres"
+ H="Avda. Pakarati (esquina La Paz, Forestal Alto)"
+ J="-33.0462685,-71.5395508"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Villa Alemana"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Eduardo Frei Montalva (Villa Alemana)"
+ H="Rivadavia (esquina Santa Margarita, Pobl. Rosenquist)"
+ J="-33.0569611,-71.3754425"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Petorca"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Chincolco"
+ H="Poblacion O'Higgins S/N"
+ J="36.5172806,-106.0083466"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Servicio"
+ F="Centro de Salud Urbano"
+ G="Consultorio Modulo Odontologico Simon Bolivar"
+ H="Calle Limache N°1621. (Esquina Cancha)"
+ J="-33.0428581,-71.5189285"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Villa Alemana"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Juan Bautista Bravo Vega"
+ H="Las Araucarias 750, Troncos Viejos"
+ J="-33.0553932,-71.3901215"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Renaca Alto Dr. Jorge Kaplan"
+ H="Avda. Quinta 875, Paradero 8 1/2. Renaca Alto"
+ J="-32.9935799,-71.49086"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Alcalde Ivan Manriquez"
+ H="Quinchamali 2949"
+ J="40.8198013,-72.6289978"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Zapallar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Zapallar"
+ H="Pueblo Zapallar"
+ J="-32.5509987,-71.4578934"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Aviador Acevedo"
+ H="Sector Aviador Acevedo"
+ J="-33.0430984,-71.4052811"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Pompeya"
+ H="Sector Pompeya"
+ J="40.8198013,-72.6289978"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Colliguay"
+ H="Aldea Colliguay"
+ J="-33.0457802,-71.4378128"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Olmue"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Quebrada Alvarado"
+ H="Aldea Quebrada Alvarado"
+ J="-33.0358009,-71.1107025"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Hijuelas"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Villa Prat"
+ H="Villa Pratt N°96"
+ J="-32.8486099,-71.1114502"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Ligua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Marta"
+ H="Aldea Santa Marta"
+ J="-32.2336006,-71.48349"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Ligua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pueblo de Varas"
+ H="Sector Pueblo de Varas"
+ J="18.2908745,-66.0498047"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Ligua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pueblo de Roco"
+ H="Sector Pueblo de Roco"
+ J="18.2908745,-66.0498047"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Ligua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Parcelas"
+ H="Aldea Las Parcelas"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Ligua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Huaquen (La Ligua)"
+ H="Sector Huaquen"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Ligua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Los Molles"
+ H="Pueblo Los Molles"
+ J="-32.4560814,-71.2331314"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Papudo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pullally"
+ H="Pueblo de Pullalli"
+ J="-32.5074997,-71.4431"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Zapallar"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Catapilco"
+ H="Pueblo Catapilco"
+ J="31.1579094,-94.4195175"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Cabildo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Vina"
+ H="Aldea La Vina"
+ J="-32.4174004,-70.8243027"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Petorca"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Hierro Viejo"
+ H="Aldea Hierro Viejo"
+ J="36.5172806,-106.0083466"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Olmue"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Vega (Olmue)"
+ H="Sector La Vega"
+ J="-33.0358009,-71.1107025"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Olmue"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Palmas"
+ H="Caserio Las Palmas"
+ J="-33.0358009,-71.1107025"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Calera"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pachacamita"
+ H="Camino Principal Pachacamita N°48"
+ J="33.9328194,-96.4270782"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="La Ligua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Canela"
+ H="Aldea La Canela"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quillota"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Manzanar"
+ H="Camino Manzanar N°S/N"
+ J="-32.9160805,-71.4232864"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Calera"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pachacama"
+ H="Calle Libertad N°S/N"
+ J="33.9328194,-96.4270782"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quintero"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Loncura"
+ H="Calle Chimbote N°1900, Sector Loncura"
+ J="39.0638618,-100.234787"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Achupallas 'Sergio Donoso'"
+ H="Anita Lizana N°S/N, (esquina Pangal Paradero 8 Achupallas)"
+ J="-33.0146294,-71.5043488"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Santa Julia"
+ H="Paradero 1 S/N, Achupallas. Vina del Mar"
+ J="-33.0457687,-71.5471725"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quillota"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Cardenal Raul Silva Henriquez 'Cerro Macaya'"
+ H="Aconcagua 13, Cerro Macaya"
+ J="-32.8732986,-71.2490692"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Nogales"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Ex Asentamiento El Melon"
+ H="Ex Asentamiento El Melon S/N"
+ J="31.3378296,-110.9400635"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Calera"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Patricia Guerra"
+ H="Pasaje Bolognesi N°S/N"
+ J="-32.7936707,-71.2171707"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Villa Hermosa"
+ H="Avenida Alemania N°850, Villa Hermosa, Vina del Mar."
+ J="-33.0235291,-71.5630417"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Las Palmas"
+ H="Rio Tolten N°185. Vina del Mar"
+ J="-33.0586281,-71.5378036"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Petorca"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Pedegua"
+ H="Calle Principal N°S/N, Pedegua"
+ J="-32.2613602,-70.9489365"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Quilpue"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="El Retiro"
+ H="Avenida El Retiro N°607"
+ J="-33.03685,-71.4417496"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Vina del Mar"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Miraflores (Vina del Mar)"
+ H="El Membrillo (esquina Frei, Miraflores)"
+ J="-33.0192299,-71.5155334"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Con Con"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Concon"
+ H="Chanarcillo 1150"
+ J="39.7466698,-121.4924011"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Calera"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Artificio"
+ H="J. Godoy 25, Artificio"
+ J="33.9328194,-96.4270782"
+/></record><record>
+<Row
+ A="5"
+ C="Vina del Mar Quillota"
+ D="Villa Alemana"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Eduardo Frei Montalva"
+ H="Rivadavia N°(Esquina Santa Margarita, Pobl. Rosenquist)"
+ J="-33.0569611,-71.3754425"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="San Felipe"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital de San Camilo (San Felipe)"
+ H="Miraflores 2085"
+ J="29.8043709,-96.0987625"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Los Andes"
+ E="Autogestionado (AU)"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital San Juan de Dios (Los Andes)"
+ H="Avda. Argentina 315"
+ J="-32.8332596,-70.589386"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Llaillay"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital San Francisco (Llaillay)"
+ H="San Francisco 76"
+ J="-32.8423882,-70.9551773"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Llaillay"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Llaillay"
+ H="San Francisco 76"
+ J="-32.8423882,-70.9551773"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Putaendo"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital San Antonio (Putaendo)"
+ H="Avda. Alessandri 186"
+ J="-32.6225586,-70.7221375"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Putaendo"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital Psiquiatrico Dr. Philippe Pinel (Putaendo)"
+ H="Jose Antonio Salinas 2500"
+ J="-32.6102104,-70.6749268"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Rinconada"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Rinconada"
+ H="Alborada S/N, Rinconada"
+ J="20.6409245,-100.4105911"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Catemu"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Catemu"
+ H="Prat S/N"
+ J="44.4265594,-0.65683"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Putaendo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Putaendo"
+ H="Avda. Alessandri 196"
+ J="-32.6225586,-70.7221375"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="San Felipe"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar San Felipe 'El Real'"
+ H="Cajales 1900"
+ J="29.8043709,-96.0987625"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Los Andes"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cordillera Andina (Urbano 2)"
+ H="Papudo Norte 151"
+ J="-32.8288307,-70.5983658"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Los Andes"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Centenario (Urbano 1)"
+ H="Avda. Peru S/N"
+ J="-32.8398209,-70.602562"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Calle Larga"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Pedro Aguirre Cerda"
+ H="La Pampilla 164"
+ J="-32.8574791,-70.6246796"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Santa Maria"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Santa Maria"
+ H="Irarrazabal 246"
+ J="34.9531288,-120.4345322"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="San Felipe"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Curimon"
+ H="Plaza de Curimon 45, Pueblo Curimon"
+ J="29.8043709,-96.0987625"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Panquehue"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Panquehue"
+ H="El Peral S/N"
+ J="-32.5822983,-70.9431992"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="San Felipe"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Segismundo Iturra (Consultorio Nº 2)"
+ H="Santa Teresa 370"
+ J="21.4762993,-101.2002487"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Santa Maria"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Filomena (Santa Maria)"
+ H="Calle Lo Galdamez s/n, Aldea Santa Filomena"
+ J="34.9531288,-120.4345322"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Putaendo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Orilla (Putaendo)"
+ H="Aldea La Orilla"
+ J="-32.4808006,-70.5214005"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Putaendo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Quebrada de Herrera"
+ H="Aldea Quebrada de Herrera"
+ J="-32.4808006,-70.5214005"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Catemu"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Los Cerrillos"
+ H="Los Cerrillos N°S/N"
+ J="-32.6500015,-70.9666977"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="Santa Maria"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Las Cadenas"
+ H="Pueblo El Llano"
+ J="34.9531288,-120.4345322"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="San Felipe"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Quebrada Herrera"
+ H="Calle Vergara N°S/N, Quebrada Herrera"
+ J="29.8043709,-96.0987625"
+/></record><record>
+<Row
+ A="5"
+ C="Aconcagua"
+ D="San Felipe"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Segismundo Iturra"
+ H="Avda. Santa Teresa 370, Villa las Acacias"
+ J="29.8043709,-96.0987625"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Tiltil"
+ E="Servicio"
+ F="Clinica Dental Movil"
+ G="Clinica Dental Movil Simple. Pat. PW4082 (TilTil)"
+ H="Maruri 272"
+ J="40.1015701,-87.6539764"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Independencia"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Complejo Hospitalario San Jose (Santiago, Independencia)"
+ H="San Jose 1136"
+ J="7.8211498,-72.2895203"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Autogestionado (AU)"
+ F="Establecimiento Mayor Complejidad"
+ G="Instituto Psiquiatrico Dr. Jose Horwitz Barak (Santiago, Recoleta)"
+ H="Avda. La Paz N°841"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Tiltil"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Til Til"
+ H="Daniel Moya 100"
+ J="-33.086895,-70.9243851"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Tiltil"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Til-Til"
+ H="Daniel Moya 100"
+ J="-33.086895,-70.9243851"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Independencia"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Agustin Cruz Melo"
+ H="Avda. Independencia 1325"
+ J="10.2317896,-66.6665878"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Recoleta"
+ H="Recoleta 740"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Lucas Sierra"
+ H="Pedro Fontova 4107"
+ J="-33.3886986,-70.670639"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Lucas Sierra"
+ H="Pedro Fontova 4107"
+ J="-33.3886986,-70.670639"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Quinta Bella"
+ H="Justicia Social 185"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Valdivieso"
+ H="Los Cipreses 1892"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Valdivieso"
+ H="Los Cipreses 1892"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Huechuraba"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio La Pincoya"
+ H="Recoleta N°5580"
+ J="-33.3814888,-70.6396866"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie)"
+ H="Teniente Colipi 670"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Alberto Bachelet Martinez"
+ H="El Guanaco N°3250"
+ J="-33.3946457,-70.6578445"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Alberto Bachelet Martinez"
+ H="El Guanaco N°3250"
+ J="-33.3946457,-70.6578445"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Jose Symon Ojeda"
+ H="El Cortijo 2895"
+ J="-33.3786011,-70.6932144"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Colina"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Colina"
+ H="Alpatacal N°0540"
+ J="-33.21035,-70.6616211"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Lampa"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Jose Bauza Frau"
+ H="Ismael Carmona 978"
+ J="-33.2854385,-70.8760986"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Lampa"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Jose Bauza Frau"
+ H="Ismael Carmona 978"
+ J="-33.2854385,-70.8760986"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Lampa"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Batuco"
+ H="Santa Elena N°180"
+ J="-33.2416153,-70.8138275"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Irene Frei de Cid"
+ H="San Luis N°525 esquina calle A"
+ J="-33.3654022,-70.7472076"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Juanita Aguirre"
+ H="Altona 1835"
+ J="-33.3707924,-70.6829529"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Manuel Bustos de Quilicura"
+ H="Avda. Lo Cruzat N°0486"
+ J="-33.3507614,-70.7205276"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Huechuraba"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar El Barrero"
+ H="Las Petunias 305"
+ J="-33.3759155,-70.6248322"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Independencia"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud FamiliarJuan Antonio Rios"
+ H="Soberania 1180"
+ J="39.0932388,-94.4156265"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Independencia"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Juan Antonio Rios"
+ H="Soberania 1180"
+ J="39.0932388,-94.4156265"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Huechuraba"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Salvador Allende Gossens (Huechuraba)"
+ H="Avda. Recoleta N°6061"
+ J="-33.3656998,-70.6331635"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Presidente Salvador Allende Gossens (Quilicura)"
+ H="Santa Luisa N°290"
+ J="-33.3557434,-70.737915"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Presidente Salvador Allende Gossens"
+ H="Santa Luisa N°290"
+ J="-33.3557434,-70.737915"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Delegado"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cristo Vive (ONG)"
+ H="Recoleta N°4125"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Lampa"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Juan Pablo II de Lampa"
+ H="Esperanza N°6, Ciudad Lampa"
+ J="43.1151009,-124.2870026"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Tiltil"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Capilla de Caleu"
+ H="Caserio Capilla de Caleu"
+ J="-33.0462418,-70.9906769"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Tiltil"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Rungue"
+ H="Calle Estacion s/n, Aldea Rungue"
+ J="40.1015701,-87.6539764"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Tiltil"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Polpaico"
+ H="Calle Estacion ente Principal y Dario Ovalle, Aldea Estacion Polpaico"
+ J="40.1015701,-87.6539764"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Colina"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Los Ingleses"
+ H="Hermanos Carrera s/n, Aldea Los Ingleses"
+ J="31.9528999,-85.8360977"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Colina"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Chacabuco (Colina)"
+ H="Carretera San Martin Km 51, Aldea Chacabuco"
+ J="31.9528999,-85.8360977"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Independencia"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Independencia"
+ H="Salomon Sack N°331 - B (Inglaterra 1474)"
+ J="39.0932388,-94.4156265"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Conchali"
+ H="Canberra 5860"
+ J="-33.3702011,-70.6826553"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Huechuraba"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Huechuraba"
+ H="Recoleta N°5696"
+ J="-33.3724556,-70.636261"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Recoleta"
+ H="Inocencia N°2705 Pob. Qta. Bella"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Quilicura"
+ H="Guardia Marina Riquelme N°489"
+ J="-33.3702621,-70.7316437"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Colina"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Colina"
+ H="Pasaje 10 N°816, Pob. Ignacio Carrera Pinto"
+ J="31.9528999,-85.8360977"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Lampa"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Lampa"
+ H="Baquedano 824"
+ J="-33.2842216,-70.8784637"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Dr. Jose Symon Ojeda"
+ H="Avda. Baron de Juras Reales 3988"
+ J="-33.3940735,-70.6824951"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar La Foresta"
+ H="Sotaqui N°0434"
+ J="-33.3591309,-70.748558"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Pucara de Lasana"
+ H="Avda. Las Torres N°211"
+ J="-33.3546143,-70.7336273"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Colina"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Esmeralda"
+ H="Atena 2008 (esquina Nicolas Massu e Ivan Zamorano, Villa Oro Olimpico, Sector Oriente)"
+ J="31.9528999,-85.8360977"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Recoleta"
+ H="Avda. Zapadores 1099"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Huechuraba"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-La Pincoya"
+ H="Recoleta 5580"
+ J="-33.3814888,-70.6396866"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Conchali"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Symon Ojeda"
+ H="Avda. El Cortijo 2895"
+ J="-33.3786011,-70.6932144"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Colina"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Colina"
+ H="Carretera San Martin 077, Colina"
+ J="31.9528999,-85.8360977"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Nº 2-Irene Frei de Cid"
+ H="San Luis 525, (esquina Calle A)"
+ J="-33.3552589,-70.757019"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Quilicura"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Nº 1- Rodrigo Rojas Denegri"
+ H="Pedro Jose Escobar 483"
+ J="-33.3671608,-70.7314682"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Norte"
+ D="Recoleta"
+ E="Delegado"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Cristo Vive"
+ H="Recoleta 4125"
+ J="41.9021416,-89.8041306"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Santiago"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital San Juan de Dios (Santiago, Santiago)"
+ H="Huerfanos N°3255"
+ J="45.5377312,-93.819931"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Santiago"
+ E="Autogestionado (AU)"
+ F="Establecimiento Mayor Complejidad"
+ G="Instituto Traumatologico Dr. Teodoro Gebauer"
+ H="San Martin N°771"
+ J="-33.4349556,-70.6585007"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Quinta Normal"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Felix Bulnes Cerda (Santiago, Quinta Normal)"
+ H="Leoncio Fernandez N°2655"
+ J="-33.4152603,-70.6965561"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Talagante"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital Adalberto Steeger (Talagante)"
+ H="Balmaceda N°1458"
+ J="-33.6679916,-70.9208527"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Penaflor"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital de Penaflor"
+ H="Carrera N°214"
+ J="-33.6131096,-70.8606796"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital San Jose (Melipilla)"
+ H="O'Higgins N°551"
+ J="-33.6478882,-71.1526642"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Curacavi"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Curacavi"
+ H="Avda. Ambrosio O'Higgins N°500"
+ J="-33.4092369,-71.146286"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Servicio"
+ F="Centro de Referencia de Salud"
+ G="Centro de Referencia de Salud Salvador Allende"
+ H="Teniente Cruz 800"
+ J="-33.4454536,-70.7407913"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Quinta Normal"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Andes"
+ H="Andes N°4242"
+ J="-33.4340439,-70.6929169"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Lo Prado"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Santa Anita"
+ H="San Pablo N°5597"
+ J="-33.4424362,-70.7120056"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Lo Prado"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Pablo Neruda"
+ H="Dorsal 6741"
+ J="-33.451519,-70.7190323"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Quinta Normal"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Lo Franco"
+ H="Carrascal N°4459"
+ J="-33.4225388,-70.6948242"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Quinta Normal"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Garin"
+ H="Janequeo N°5612"
+ J="-33.4301872,-70.7134857"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Cerro Navia"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Dr. Adalberto Steeger"
+ H="Huelen N°1629"
+ J="-33.4184837,-70.7412186"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Cerro Navia"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Lo Amor"
+ H="Neptuno 2198"
+ J="-33.4251785,-70.7190018"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Cerro Navia"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cerro Navia"
+ H="Sado N°7965"
+ J="-33.4197617,-70.7515717"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Lo Prado"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Raul Yazigi"
+ H="Caleta Iquique 214"
+ J="-33.451931,-70.7155991"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Lo Prado"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Avendano"
+ H="Teniente Cruz 1087"
+ J="-33.4366226,-70.740654"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Pudahuel Estrella"
+ H="Avda. La Estrella N°1115"
+ J="-33.4370689,-70.751976"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Pudahuel Poniente"
+ H="San Pablo N°9152"
+ J="-33.4439011,-70.7805099"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Gustavo Molina"
+ H="Calle Laguna Sur N°8759"
+ J="-33.4570503,-70.7899628"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Cardenal Raul Silva Henriquez de Pudahuel"
+ H="Avda. El Tranque N°1382"
+ J="-33.4301949,-70.7703247"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Violeta Parra"
+ H="Avda. Travesia 8457"
+ J="-33.4540787,-70.7600098"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Cerro Navia"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Arturo Albertz"
+ H="Las Torres N°1204"
+ J="-33.4335632,-70.7309723"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Renca"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Renca"
+ H="Balmaceda N°4420"
+ J="-33.4034691,-70.7095032"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Renca"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Bicentenario"
+ H="Avda. Brasil N°8005"
+ J="-33.39711,-70.7537842"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Renca"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Dr. Hernan Urzua Merino"
+ H="Totoral Bajo N°1011"
+ J="35.4831314,-94.3558578"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Penaflor"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Fernando Monckeberg"
+ H="La Concepcion N°73"
+ J="-33.6094818,-70.8710022"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="El Monte"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio El Monte"
+ H="Avda. Los Libertadores N°531"
+ J="34.0706406,-118.0303726"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Isla de Maipo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Isla de Maipo"
+ H="Manuel Rodriguez N°1001"
+ J="-33.7494698,-70.9033508"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Dr. Edelberto Elgueta"
+ H="Arza N°1576"
+ J="-33.6825485,-71.2159119"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Francisco Boris Soler"
+ H="Valdes N°727"
+ J="-33.6872253,-71.2171326"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar San Manuel"
+ H="Camino San Manuel (Camino Publico)"
+ J="-33.7474403,-71.2309189"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Centro de Salud Rural Alfarera Rosa Reyes Vilches"
+ H="Artesana Julita Vera 354, Pomaire"
+ J="18.4437008,-66.0680008"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Maria Pinto"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Maria Pinto"
+ H="Francisco Costabal N°78"
+ J="26.3365707,-81.4380722"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="San Pedro"
+ E="Municipal"
+ F="Consultorio General Rural"
+ G="Centro General Rural San Pedro"
+ H="Av. Hermosilla N°11"
+ J="25.96661,-97.4988327"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Talagante"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Alberto Allende Jones"
+ H="Esmeralda N°2049"
+ J="18.01054,-65.9034729"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Talagante"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Talagante"
+ H="Esmeralda N°2049"
+ J="18.01054,-65.9034729"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Alhue"
+ E="Municipal"
+ F="Consultorio General Rural"
+ G="Centro General rural Villa Alhue"
+ H="21 de Mayo s/n"
+ J="46.4046783,-120.4678574"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Isla de Maipo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Antonio de Naltagua"
+ H="Aldea San Antonio Naltagua (frente Medialuna)"
+ J="-33.7328415,-70.9735336"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pahuilmo"
+ H="Ruta G 380, Camino Publico s/n, Sector Pahuilmo"
+ J="18.4437008,-66.0680008"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de salud Rural Pabellon"
+ H="Larrain s/n"
+ J="-33.6977196,-71.2212677"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Maria Pinto"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Emilia"
+ H="Aldea Santa Emilia"
+ J="-33.4641304,-71.0774765"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Maria Pinto"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Mercedes ( Maria Pinto )"
+ H="Aldea Las Mercedes"
+ J="26.3365707,-81.4380722"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Maria Pinto"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Chorombo"
+ H="Sector Chorombo Alto"
+ J="26.3365707,-81.4380722"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="San Pedro"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Loica"
+ H="Aldea Loica"
+ J="25.98102,-97.5976486"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="San Pedro"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Manga"
+ H="Sector La Manga"
+ J="25.98102,-97.5976486"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="San Pedro"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Nihue"
+ H="Sector Nihue"
+ J="25.98102,-97.5976486"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="San Pedro"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Prado"
+ H="Aldea El Prado"
+ J="25.98102,-97.5976486"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Alhue"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Hacienda Alhue"
+ H="La Linea, Sector Hacienda Alhue"
+ J="46.4046783,-120.4678574"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Alhue"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pichi"
+ H="Sector Pichy"
+ J="46.4046783,-120.4678574"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Alhue"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Asiento"
+ H="Aldea El Asiento"
+ J="-34.0429993,-71.0566025"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Alhue"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Maria"
+ H="Caserio Santa Maria"
+ J="-34.0429993,-71.0566025"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Delegado"
+ F="Centro de Salud Urbano"
+ G="Consultorio Coaniquem"
+ H="Avda. San Francisco N°8586"
+ J="-33.4365692,-70.7481537"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Cerro Navia"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Cerro Navia"
+ H="5 de Febrero N°2206"
+ J="-33.4170494,-70.7287521"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Quinta Normal"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Quinta Normal"
+ H="Miguel de Atero N°2655 (ottolenghi 5151)"
+ J="-33.4151154,-70.7010727"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Lo Prado"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Lo Prado"
+ H="San German 1052"
+ J="-33.4398003,-70.7197723"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Convenios"
+ F="Consultorio de Salud Mental"
+ G="COSAM Pudahuel"
+ H="Santa Corina N°8629"
+ J="-33.4481316,-70.7516479"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Penaflor"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Penaflor"
+ H="Vicuna Mackenna N°984-A"
+ J="-33.610405,-70.868042"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Melipilla"
+ H="Alpatacal N°057"
+ J="18.4437008,-66.0680008"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="Centro Comunitario de Salud Mental"
+ H="San Pablo N°9176"
+ J="-33.4422874,-70.7646408"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Quinta Normal"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Catamarca"
+ H="Catamarca 2232"
+ J="40.5108185,-88.9941406"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Quinta Normal"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Antumalal"
+ H="Heriberto Rojas 5967"
+ J="-33.4183197,-70.7141571"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Rio Claro"
+ H="Rio Claro 8314"
+ J="-33.463974,-70.7484055"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Mar Caribe"
+ H="Mar Caribe N°1241 Pudahuel Norte"
+ J="-33.4318619,-70.7414474"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Pudahuel"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Santa Corina"
+ H="Relacionador Aranguiz 645"
+ J="-33.4498901,-70.7461472"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Curacavi"
+ E="Servicio"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Curacavi"
+ H="Manuel Rodriguez N°1155"
+ J="-33.3923187,-71.1241379"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Melipilla"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Obispo Pablo Lizama"
+ H="Guillermo Vera 2091, Pob. Obispo Lizama, Melipilla"
+ J="18.4437008,-66.0680008"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Renca"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Renca"
+ H="Balmaceda Numero4012"
+ J="-33.4033585,-70.7002487"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Padre Hurtado"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Santa Rosa de Chena"
+ H="Teniente Sanz 823"
+ J="-33.5666618,-70.8081436"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Occidente"
+ D="Talagante"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Marcela Jacques Vargas"
+ H="Francisco Chacon 750"
+ J="18.01054,-65.9034729"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Clinico San Borja-Arriaran (Santiago, Santiago)"
+ H="Santa Rosa 1234"
+ J="45.5377312,-93.819931"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Clinico Metropolitano El Carmen Doctor Luis Valentin Ferrada"
+ H="Camino a Rinconada 1001"
+ J="-33.4776688,-70.8739395"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital de Urgencia Asistencia Publica Dr. Alejandro del Rio (Santiago, Santiago)"
+ H="Avda. Portugal 125"
+ J="-33.4438591,-70.6374664"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar 1 Dr. Ramon Corbalan Melgarejo"
+ H="Copiapo 1323"
+ J="45.5377312,-93.819931"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Servicio"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Consultorio Nº1"
+ H="Copiapo 1323"
+ J="45.5377312,-93.819931"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Estacion Central"
+ E="Servicio"
+ F="Centro de Salud Urbano"
+ G="Consultorio Nº 5 Union Americana"
+ H="Union Latinoamericana 98"
+ J="-33.4750595,-70.6845398"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Estacion Central"
+ E="Servicio"
+ F="Centro de Salud Urbano"
+ G="Consultorio Los Nogales"
+ H="21 de Mayo 1854"
+ J="-33.472374,-70.6920776"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Pedro Aguirre Cerda"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Lo Valledor Norte"
+ H="Avda. Central 4000"
+ J="31.4379997,-94.3973999"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Maipu"
+ H="Avda. Ramon Freire 2470"
+ J="38.73246,-121.2450256"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Servicio"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Maipu"
+ H="Avda. Ramon Freire 2470"
+ J="38.73246,-121.2450256"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Cerrillos"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Norman Voullieme"
+ H="Salomon Sack N°6376"
+ J="35.4358482,-106.1220093"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Cerrillos"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Enfermera Sofia Pincheira"
+ H="Avda. Las Torres 7590"
+ J="-33.5008469,-70.7332611"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Jose Eduardo Ahues Salame"
+ H="Avda. Independencia 2200"
+ J="-33.3176918,-61.0518608"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Estacion Central"
+ E="Servicio"
+ F="Centro de Salud Familiar"
+ G="Las Mercedes"
+ H="Calle Embajador Quintana 5020"
+ J="-33.4516678,-70.7035446"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Servicio"
+ F="Centro de Referencia de Salud"
+ G="Centro de Referencia de Salud de Maipu"
+ H="Camino Rinconada 1001"
+ J="-33.5088768,-70.7718811"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Padre Orellana"
+ H="Padre Orellana 1706"
+ J="45.5377312,-93.819931"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio San Vicente (Ex.Santiago Watt)"
+ H="Sepulveda Leyton 3288"
+ J="45.5377312,-93.819931"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Dr. Benjamin Viel"
+ H="San Ignacio 1217"
+ J="39.469149,-6.370303"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Ivan Insunza"
+ H="Mar de Chile 491"
+ J="-33.4841499,-70.7715378"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Clotario Blest"
+ H="Los Trabajadores 999"
+ J="-33.4898605,-70.7445679"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Ignacio Domeyko"
+ H="Cueto N°543"
+ J="-33.4386864,-70.6724014"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Presidenta Michelle Bachelet"
+ H="Nueva San Martin N°776"
+ J="-33.5253067,-70.7672424"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Dr. Luis Ferrada"
+ H="Tierra Fertil N°5161"
+ J="38.73246,-121.2450256"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Estacion Central"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Estacion Central"
+ H="Padre Vicente Irarrazabal N°1313"
+ J="-33.4661865,-70.6932678"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Cerrillos"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Cerrillos"
+ H="19 de Septiembre 6161"
+ J="-33.4937019,-70.7087936"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Santiago"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="Consultorio de Salud Mental Santiago"
+ H="Rojas Jimenez N°21"
+ J="-33.4478149,-70.6324158"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar El Abrazo"
+ H="5 de Abril N°1150. Barrio Riesco Central"
+ J="-33.5100861,-70.7455444"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Lo Errazuriz"
+ H="Avda. Sur de Chile N°S/N. Barrio Lo Errazuriz"
+ J="-33.4777908,-70.7231598"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Maipu"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Bueras"
+ H="Calle Bueras N°456. Barrio Maipu Centro"
+ J="-33.5067749,-70.75177"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Central"
+ D="Cerrillos"
+ E="Servicio"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Dr. Norman Voullieme"
+ H="Salomon Sack 6376"
+ J="35.4358482,-106.1220093"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Providencia"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Del Salvador (Santiago, Providencia)"
+ H="Avda. Salvador 364"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Autogestionado (AU)"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Dr. Luis Tisne B. (Santiago, Penalolen)"
+ H="Avda. Las Torres 5150, Penalolen"
+ J="-33.5014153,-70.579895"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Providencia"
+ E="Autogestionado (AU)"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital de Ninos Dr. Luis Calvo Mackenna (Santiago, Providencia)"
+ H="Avda. Antonio Varas 360"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Providencia"
+ E="Autogestionado (AU)"
+ F="Establecimiento Mayor Complejidad"
+ G="Instituto Nacional de Enfermedades Respiratorias y Cirugia Toracica"
+ H="Jose Manuel Infante 717"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Providencia"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Instituto de Neurocirugia Dr. Alfonso Asenjo"
+ H="Avda. Jose M. Infante 553"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Instituto Nacional de Rehabilitacion Infantil Presidente Pedro Aguirre Cerda"
+ H="Avda. Jose Arrieta 5969"
+ J="-33.4601173,-70.5695267"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Providencia"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Instituto Nacional Geriatrico Presidente Eduardo Frei Montalva"
+ H="Jose Manuel Infante 370"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="5"
+ C="Metropolitano Oriente"
+ D="Isla de Pascua"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Hanga Roa (Isla De Pascua)"
+ H="Simon Paoa s/n"
+ J="-27.1505508,-109.4225922"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Servicio"
+ F="Centro de Referencia de Salud"
+ G="Centro de Referencia de Salud Cordillera Oriente"
+ H="Avda. Las Torres 5100"
+ J="-33.5014954,-70.5794144"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Providencia"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Hernan Alessandri"
+ H="Los Jesuitas 857"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Providencia"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Dental Alfonso Leng"
+ H="Avda. Manuel Montt 303"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Las Condes"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Apoquindo"
+ H="Cerro Altar 611"
+ J="-33.4008217,-70.5660019"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Las Condes"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Anibal Ariztia"
+ H="Paul Harris 1140"
+ J="-33.4173813,-70.5334167"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Las Condes"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Anibal Ariztia"
+ H="Paul Harris 1140"
+ J="-33.4173813,-70.5334167"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Lo Barnechea"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Lo Barnechea"
+ H="Avda. El Rodeo 13533"
+ J="-33.3513947,-70.5089645"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Lo Barnechea"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Lo Barnechea"
+ H="Avda. El Rodeo 13533"
+ J="-33.3513947,-70.5089645"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Macul"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Felix de Amesti"
+ H="El Libano 5557"
+ J="-33.491291,-70.5906906"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Macul"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Santa Julia"
+ H="Gregorio de la Fuente 3521"
+ J="-33.4782295,-70.5990906"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Macul"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Santa Julia"
+ H="Gregorio de la Fuente 3521"
+ J="-33.4782295,-70.5990906"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar La Faena"
+ H="Avda. Oriental 7250"
+ J="-33.4682693,-70.5556412"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-La Faena"
+ H="Avda. Oriental 7250"
+ J="-33.4682693,-70.5556412"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar San Luis"
+ H="La Pradera 5370"
+ J="-33.5077934,-70.578064"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Carol Urzua Ibanez de Penalolen"
+ H="Avda. Consistorial 1960"
+ J="-33.4773254,-70.5437241"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Carol Urzua Ibanez"
+ H="Avda. Consistorial 1960"
+ J="-33.4773254,-70.5437241"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="La Reina"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar La Reina"
+ H="Echenique 8419"
+ J="-33.4425621,-70.5446014"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Lo Hermida"
+ H="Coronel Alejandro Sepulveda 6931"
+ J="-33.4768524,-70.5628662"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Macul"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Padre Alberto Hurtado"
+ H="Arturo Prat 4345"
+ J="-33.4934273,-70.6147461"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="La Reina"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Juan Pablo II"
+ H="Parinacota 440"
+ J="-33.4567337,-70.5323944"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cardenal Silva Henriquez"
+ H="Rio Claro 1020"
+ J="-33.470108,-70.53228"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Padre Gerardo Whelan"
+ H="Avda. Litoral N°5960"
+ J="-33.4740028,-70.5743332"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Macul"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Centro Odontologico Macul"
+ H="Arturo Prat N°4345"
+ J="-33.4934273,-70.6147461"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Lo Barnechea"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Farellones"
+ H="Camino a Farellones N°S/N"
+ J="-33.3434105,-70.3443069"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="La Reina"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM La Reina"
+ H="Quillahua 480"
+ J="-33.4568367,-70.5336304"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Macul"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Macul"
+ H="Gregorio de la Fuente 3556"
+ J="-33.4782295,-70.5990906"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Las Condes"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Las Condes"
+ H="Enrique Foster Sur N°153"
+ J="-33.4180756,-70.5936508"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Penalolen"
+ H="Avda. Tobalaba 13651"
+ J="-33.4815407,-70.5581818"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Lo Barnechea"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Lo Barnechea"
+ H="Padre Alfredo Arteaga 1696"
+ J="-33.3541374,-70.5111389"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Lo Barnechea"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Lo Barnechea"
+ H="Circunvalacion Norte 5040"
+ J="-33.3550606,-70.5022736"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar General Carol Urzua Ibanez"
+ H="Nueva Vida 2087"
+ J="-33.4796715,-70.5333862"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="La Reina"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Dragones de La Reina"
+ H="Dragones de La Reina N°616"
+ J="-33.4594154,-70.5620117"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Lo Barnechea"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Bicentenario"
+ H="Avda. Quinchamali N°14111"
+ J="-33.3653526,-70.501915"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-San Luis"
+ H="Los Cerezos 5553"
+ J="-33.5032616,-70.5743561"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Oriente"
+ D="Penalolen"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Lo Hermida"
+ H="Santa Maria 6066"
+ J="-33.4789696,-70.572998"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Miguel"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Barros Luco Trudeau (Santiago, San Miguel)"
+ H="Gran Avenida Jose Miguel Carrera 3204"
+ J="35.7494698,-120.6966782"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Miguel"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital de Enfermedades Infecciosas Dr. Lucio Cordova (Santiago, San Miguel)"
+ H="Gran Avenida Jose Miguel Carrera 3204"
+ J="35.7494698,-120.6966782"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Buin"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital San Luis (Buin)"
+ H="Arturo Prat 240"
+ J="-33.7317543,-70.7804565"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Puente Alto"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital Psiquiatrico El Peral (Santiago, Puente Alto)"
+ H="Camilo Henriquez 2451"
+ J="-33.579689,-70.5510635"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Autogestionado (AU)"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital El Pino (Santiago, San Bernardo)"
+ H="Avda. Los Morros 13560"
+ J="44.8430405,7.69522"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Servicio"
+ F="Centro de Referencia de Salud"
+ G="Centro de Referencia de Salud El Pino"
+ H="Avda. Los Morros 13560"
+ J="44.8430405,7.69522"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Delegado"
+ F="Hospital Delegado"
+ G="Hospital Parroquial (Santiago, San Bernardo)"
+ H="Libertador Bernardo O'Higgins 04"
+ J="-33.5917892,-70.7040024"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Miguel"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Barros Luco"
+ H="Gran Avda. Jose Miguel Carrera 3204"
+ J="35.7494698,-120.6966782"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Miguel"
+ E="Servicio"
+ F="Centro de Diagnostico Terapeutico"
+ G="Centro de Imagenologia Mamaria Metropolitano"
+ H="Gran Avda. Jose Miguel Carrera 3204"
+ J="35.7494698,-120.6966782"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar San Joaquin"
+ H="Francisca de Rimini N°3223"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Miguel"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Recreo"
+ H="Varas Mena 785"
+ J="35.7494698,-120.6966782"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Miguel"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Recreo"
+ H="Varas Mena 785"
+ J="35.7494698,-120.6966782"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Pedro Aguirre Cerda"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Amador Neghme"
+ H="Alhue 2085"
+ J="31.4379997,-94.3973999"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Pedro Aguirre Cerda"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Villa Sur"
+ H="Clotario Blest 6035"
+ J="-33.5019531,-70.6804352"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Arturo Baeza Goni"
+ H="Alvarez de Toledo 399"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Pedro Aguirre Cerda"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Padre Pierre Dubois"
+ H="Los Comandos 4772"
+ J="-33.4898987,-70.6757202"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Pedro Aguirre Cerda"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-La Feria"
+ H="Los Comandos 4772"
+ J="-33.4898987,-70.6757202"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="La Granja"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Padre Esteban Gumucio Vives"
+ H="Avda. Central 281"
+ J="-33.5193062,-70.624054"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="La Granja"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Padre Esteban Gumucio"
+ H="Avda. Central 281"
+ J="-33.5193062,-70.624054"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Lo Espejo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Clara Estrella"
+ H="Putre 6868"
+ J="-33.5151215,-70.6765671"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Lo Espejo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Clara Estrella"
+ H="Putre 6868"
+ J="-33.5151215,-70.6765671"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Lo Espejo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Julio Acuna Pinzon"
+ H="Avda. Central Raul Silva Henriquez N°8260"
+ J="-33.5200157,-70.6961594"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Lo Espejo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Julio Acuna Pinzon"
+ H="Avda. Central Raul Silva Henriquez N°8260"
+ J="-33.5200157,-70.6961594"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Lo Espejo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dra. Mariela Salgado Zepeda"
+ H="Jose Maria Caro 3849"
+ J="-33.5082283,-70.6938019"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Lo Espejo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Valledor Tres"
+ H="Jose Maria Caro 3849"
+ J="-33.5082283,-70.6938019"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="La Cisterna"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Santa Anselma"
+ H="Fernando de Aragon 8365"
+ J="-33.52911,-70.6667633"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Carlos Lorca"
+ H="Claudina Parra 11028"
+ J="18.2490997,-66.9893036"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Raul Cuevas (Ex-San Bernardo)"
+ H="San Alfonso 1202"
+ J="34.3948898,-106.8379135"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Condores Chile"
+ H="Agusto D`Almar N°555"
+ J="-33.5613937,-70.6737823"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Confraternidad"
+ H="Martin de Solis 14210"
+ J="-33.5894966,-70.6828308"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Confraternidad"
+ H="Martin de Solis 14210"
+ J="-33.5894966,-70.6828308"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Carol Urzua de San Bernardo"
+ H="Loncomilla N°958"
+ J="-33.5769997,-70.7041092"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Santa Laura"
+ H="Indio Geronimo 10460"
+ J="-33.5528259,-70.6891098"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Paine"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Paine"
+ H="Jose Joaquin Prieto 118"
+ J="41.3629913,-78.5625687"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Paine"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Dr. Raul Moya Munoz"
+ H="Diego Portales S/N"
+ J="-33.4544106,-70.6468887"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Buin"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Maipo"
+ H="Bellavista N°S/N"
+ J="-33.5222664,-70.5943298"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Calera de Tango"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Calera de Tango"
+ H="Lonquen Sur S/N, (Paradero 21)"
+ J="-33.7193985,-70.8292007"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Sor Teresa Los Andes"
+ H="Gustavo Campana 5380"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Sor Teresa de Los Andes"
+ H="Gustavo Campana 5380"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Mario Salcedo Sepulveda"
+ H="Pasaje Mar Baltico N°13256"
+ J="18.2490997,-66.9893036"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Centro de Salud Dra. Haydee Lopez Casoou"
+ H="Lo Martinez N°862"
+ J="-33.5723267,-70.6674957"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="La Cisterna"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Eduardo Frei Montalva (La Cisterna)"
+ H="Avda. Ossa 140"
+ J="-33.5392609,-70.6618652"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="La Cisterna"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Eduardo Frei Montalva"
+ H="Avda. Ossa 140"
+ J="-33.5392609,-70.6618652"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Padre Joan Alsina"
+ H="Marquez de la Plata 05"
+ J="-33.6133919,-70.7000885"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Padre Joan Alsina"
+ H="Marquez de la Plata 05"
+ J="-33.6133919,-70.7000885"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Orlando Letelier"
+ H="Lo Moreno 890"
+ J="-33.578186,-70.6778412"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Raul Branes F."
+ H="Carlos Condell 1036"
+ J="34.3948898,-106.8379135"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Raul Branes F."
+ H="Carlos Condell 1036"
+ J="34.3948898,-106.8379135"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Pedro Aguirre Cerda"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Edgardo Enriquez Froedden"
+ H="Avda. Clotario Blest 2650"
+ J="-33.4799118,-70.6693497"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Juan Pablo II"
+ H="Santa Marta 0276"
+ J="-33.5925713,-70.6736908"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Buin"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Alto Jahuel"
+ H="Camino Miraflores N°S/N, Ciudad Alto Jahuel"
+ J="34.0023003,-92.4958496"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM El Bosque"
+ H="Padre Hurtado N°11480"
+ J="-33.5783997,-70.6654968"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM San Bernardo"
+ H="Martin de Solis 14260"
+ J="44.8430405,7.69522"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="Centro de Salud Mental San Joaquin"
+ H="Alvarez de Toledo 569"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Buin"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Hector Garcia Garcia"
+ H="Errazuriz 703"
+ J="-33.7383308,-70.7410507"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar El Manzano"
+ H="Camino Santa Teresa 1876"
+ J="34.3948898,-106.8379135"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Lo Espejo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Pueblo Lo Espejo"
+ H="Avda. Lo Espejo 02891"
+ J="-33.5359688,-70.6939087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Buin"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Linderos"
+ H="Francisco Javier Krugger s/n, Sector Linderos"
+ J="-33.7639008,-70.7360001"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Buin"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Recurso"
+ H="Camino Publico Fundo Recurso, Aldea El Recurso"
+ J="34.0023003,-92.4958496"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Paine"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pintue"
+ H="Avda. Alfonso Letelier s/n, Caserio Pintue"
+ J="41.3629913,-78.5625687"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Paine"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Huelquen"
+ H="Sta. Filomena s/n, recinto Municipal Huelquen"
+ J="41.3629913,-78.5625687"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Paine"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Rangue"
+ H="Avda. Alfonso Letelier s/n, Aldea Rangue"
+ J="41.3629913,-78.5625687"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Paine"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Abrantes"
+ H="Avda. Alfonso Letelier s/n, Caserio Abrantes"
+ J="41.3629913,-78.5625687"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Paine"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Chada"
+ H="Camino Vec. Interior s/n, Aldea Chada"
+ J="41.3629913,-78.5625687"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Calera de Tango"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Ines"
+ H="Camino Santa Ines S/N"
+ J="-33.639061,-70.7702789"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Lo Espejo"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="Centro de Salud Mental Lo Espejo"
+ H="Pasaje 24 N°2379"
+ J="-33.5096054,-70.6783447"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Yalta"
+ H="Calle Yalta N°2500"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familia Sierra Bella"
+ H="Calle Sierra Bella N°3208"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Pedro Aguirre Cerda"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Cooperacion"
+ H="Cooperacion 6041"
+ J="-33.5001183,-70.6853943"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Cerrillos de Nos"
+ H="Parcela San Adolfo BC-1. Cancha San Adolfo"
+ J="34.3948898,-106.8379135"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Rapa Nui"
+ H="Miguel de Unamuno 2738"
+ J="34.3948898,-106.8379135"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Santa Laura"
+ H="Picton 1050"
+ J="-33.5460815,-70.6820908"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Juan Aravena"
+ H="Juan Aravena 472"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Lo Herrera"
+ H="Volcan Guallatiri N°8282"
+ J="-33.6665688,-70.7453079"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Joaquin"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Reverendo Javier Pero"
+ H="Calle Reverendo Javier Pero (esquina Ingeniero Budge)"
+ J="36.6072502,-120.1883087"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Buin"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Dr. Hector Garcia"
+ H="Avda. Nuevo Buin Poniente Exclemencia Sazo 1591"
+ J="34.0023003,-92.4958496"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Pedro Aguirre Cerda"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Juan Solorzano"
+ H="Avda. Clotario Blest 6035"
+ J="31.4379997,-94.3973999"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Raul Cuevas (Ex-San Bernardo)"
+ H="San Alfonso (esquina Panamericana)"
+ J="-33.5989304,-70.7065506"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Paine"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Paine"
+ H="Jose Joaquin Prieto 118, Paine"
+ J="41.3629913,-78.5625687"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="El Bosque"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Laura Vicuna"
+ H="Lo Martinez 862"
+ J="-33.5723267,-70.6674957"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Carol Urzua de San Bernardo"
+ H="Mendoza 855"
+ J="-33.5785713,-70.7045364"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Pedro Aguirre Cerda"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU- Edgardo Enriquez Froedden"
+ H="Clotario Blest 2650"
+ J="-33.4799118,-70.6693497"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="San Bernardo"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Juan Pablo II"
+ H="Santa Marta N°0276"
+ J="-33.5925713,-70.6736908"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur"
+ D="Buin"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="Servicio de Atencion Primaria de Urgencia Buin"
+ H="Errazuriz N°703"
+ J="-33.7383308,-70.7410507"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Complejo Hospitalario Dr. Sotero del Rio (Santiago, Puente Alto)"
+ H="Avda. Concha y Toro 3459"
+ J="-33.5911102,-70.5793076"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Jose de Maipo"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital San Jose de Maipo"
+ H="Avda. Comercio 838"
+ J="-33.6363907,-70.3518906"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Ramon"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Padre Alberto Hurtado (San Ramon)"
+ H="Esperanza 2150"
+ J="37.7794914,-121.9690399"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Providencia"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital Metropolitano (Ex Militar, Santiago, Providencia)"
+ H="Holanda N°50"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Servicio"
+ F="Centro de Referencia de Salud"
+ G="Centro de Referencia de Salud San Rafael"
+ H="Avda. El Parque (esquina Froilan Roa)"
+ J="1.25,-77.4167023"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Providencia"
+ E="Servicio"
+ F="Centro de Diagnostico Terapeutico"
+ G="Centro Metropolitano de Sangre y Tejidos"
+ H="Avda. Vitacura N°0115"
+ J="41.8238716,-71.4119873"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Delegado"
+ F="Hospital Delegado"
+ G="Centro de Enfermedades Respiratorias Infantiles Josefina Martinez"
+ H="Avda. Camilo Henriquez 3691"
+ J="-33.5667038,-70.5545807"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio Dr. Alejandro del Rio"
+ H="Gandarillas 105"
+ J="-33.6071396,-70.5772476"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU- Dr. Alejandro del Rio"
+ H="Gandarillas 105"
+ J="-33.6071396,-70.5772476"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Los Castanos"
+ H="Diagonal Los Castanos 5820"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Los Castanos"
+ H="Diagonal Los Castanos 5820"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Bellavista"
+ H="Pudeto 795, Paradero 12 (Vicuna Mackenna)"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Villa O'Higgins"
+ H="Santa Julia 870"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Villa O'Higgins"
+ H="Santa Julia 870"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Los Quillayes"
+ H="Julio Cesar 10905, Paradero 24 (V.Mackenna)"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Los Quillayes"
+ H="Julio Cesar 10905, Paradero 24 (V.Mackenna)"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Granja"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar La Granja"
+ H="Avda. San Gregorio 028"
+ J="-33.5373611,-70.6344223"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Ramon"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar La Bandera"
+ H="Vicuna Mackenna 1758"
+ J="37.7794914,-121.9690399"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Pintana"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Pablo de Rokha"
+ H="Pedro Prado 12221"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Pintana"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Pablo de Rokha"
+ H="Pedro Prado 12221"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Pirque"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Dr. Jose Manuel Balmaceda"
+ H="Avda. Ramon Subercaseaux 87"
+ J="-33.615799,-70.5160065"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Pintana"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Santiago de Nueva Extremadura"
+ H="Avda. Juanita 13558"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Pintana"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Santiago de Nueva Extremadura"
+ H="Avda. Juanita 13558"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar San Geronimo"
+ H="San Pedro 1203"
+ J="-33.6236343,-70.5883255"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-San Geronimo"
+ H="San Pedro 1203"
+ J="-33.6236343,-70.5883255"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Vista Hermosa"
+ H="Los Pinos 0275"
+ J="-33.6095009,-70.5213928"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Ramon"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Consultorio San Ramon"
+ H="Alhue 8522"
+ J="37.7794914,-121.9690399"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Ramon"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-San Ramon"
+ H="Alhue 8522"
+ J="37.7794914,-121.9690399"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Granja"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Malaquias Concha"
+ H="Avda. Linares 0585"
+ J="-33.5273018,-70.6226196"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Pintana"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Santo Tomas"
+ H="Santo Tomas 0987"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Pintana"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Santo Tomas"
+ H="Santo Tomas 0987"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Bernardo Leighton"
+ H="Miguel Angel 1929"
+ J="-33.5842896,-70.6026077"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Bernardo Leighton"
+ H="Miguel Angel 1929"
+ J="-33.5842896,-70.6026077"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Cardenal Silva Henriquez de Puente Alto"
+ H="Estacion El Canelo 3345"
+ J="-33.6281586,-70.6157837"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Cardenal Silva Henriquez de Puente Alto"
+ H="Estacion El Canelo 3345"
+ J="-33.6281586,-70.6157837"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Padre Manuel Villaseca"
+ H="Luis Matte Larrain 2312"
+ J="-33.5842667,-70.5565643"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Padre Manuel Villaseca"
+ H="Luis Matte Larrain 2312"
+ J="-33.5842667,-70.5565643"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Delegado"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Madre Teresa de Calcuta (Delegado)"
+ H="Avda. Circunvalacion 1815, Villa Primavera"
+ J="-33.6149483,-70.5565109"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Karol Wojtyla"
+ H="Curaco de Velez 4110, Pobl. Pedro Lira"
+ J="-33.6256104,-70.6258698"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Pintana"
+ E="Delegado"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Juan Pablo II"
+ H="Avda. La Primavera 02870 (Paradero 31 Santa Rosa)"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Delegado"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar San Alberto Hurtado"
+ H="Avda. San Carlos 1693, Puente Alto"
+ J="-33.5971413,-70.5682602"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Trinidad"
+ H="Calle Uno 10021"
+ J="28.940885,-81.948765"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar La Florida"
+ H="Avda. La Florida 6015"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU La Florida"
+ H="Avda. La Florida 6015"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Centro de Salud Urbano"
+ G="Centro de Salud Laurita Vicuna"
+ H="Avda. Ejercito Libertador 2433"
+ J="-33.6183205,-70.5904465"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Jose Alvo"
+ H="Avda. Bacteriologico N°10817"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Pirque"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Puntilla"
+ H="Sector La Puntilla"
+ J="18.4533005,-66.0594025"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Pirque"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Rita"
+ H="Caserio Santa Rita"
+ J="-33.6459694,-70.5342636"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Pirque"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Vicente"
+ H="San Vicente N°S/N"
+ J="-33.4651718,-70.6758575"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Jose de Maipo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Vertientes"
+ H="Parque Municipal N°2386"
+ J="-33.5882683,-70.4720993"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Jose de Maipo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Volcan"
+ H="Camino El Volcan N°S/N"
+ J="-33.5891495,-70.4799423"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Las Perdices"
+ H="El Parral Sector Las Perdices"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Jose de Maipo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Gabriel"
+ H="Los Rodados N°41687"
+ J="-33.7832909,-70.2359772"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Ramon"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM La Bandera"
+ H="La Bandera 9696"
+ J="37.7794914,-121.9690399"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Ramon"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM La Rinconada"
+ H="Rinconada 8460"
+ J="37.7794914,-121.9690399"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Granja"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM La Granja"
+ H="San Gregorio 0470"
+ J="-33.5373611,-70.6344223"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Pintana"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM La Pintana"
+ H="Patagonia 12834"
+ J="30.9665108,-91.8519058"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Florida"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM La Florida"
+ H="Diagonal La Florida 5820"
+ J="28.4930878,-82.47229"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Delegado"
+ F="Consultorio de Salud Mental"
+ G="COSAM Puente Alto"
+ H="Tocornal 152"
+ J="-33.6091194,-70.5785294"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Pirque"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="COSAM Pirque"
+ H="Santa Rita (Sector Santa Rita)"
+ J="-35.6054993,-71.7547989"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Consultorio de Salud Mental"
+ G="Centro de Salud Mental CEIF Puente Alto"
+ H="Sargento Menadier N°27"
+ J="-33.6162186,-70.575592"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Granja"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Millalemu"
+ H="Tricolor 805, Poblacion Millalemu"
+ J="18.4230003,-66.4042969"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Ramon"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Modelo"
+ H="Alvear 6543"
+ J="37.7794914,-121.9690399"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Granja"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar San Gregorio"
+ H="Angol N°8363"
+ J="-33.5384865,-70.614502"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="La Granja"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-La Granja"
+ H="San Gregorio 028"
+ J="-33.5373611,-70.6344223"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="San Ramon"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-La Bandera"
+ H="Avda. Vicuna Mackenna 1758"
+ J="37.7794914,-121.9690399"
+/></record><record>
+<Row
+ A="13"
+ C="Metropolitano Sur Oriente"
+ D="Puente Alto"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU Karol Wojtyla"
+ H="Curaco de Velez N°4110, Pob. Pedro Lira"
+ J="-33.6256104,-70.6258698"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Graneros"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Santa Filomena (Graneros)"
+ H="Avda. Compania 550"
+ J="-34.0693054,-70.719017"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Coinco"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Coinco"
+ H="Francisco Diaz Munoz 157"
+ J="-34.2687798,-70.9525833"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Peumo"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Del Salvador (Peumo)"
+ H="San Juan de Dios 20"
+ J="-34.3901711,-71.173317"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rengo"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital Dr. Ricardo Valenzuela Saez (Rengo)"
+ H="El Cipres 210"
+ J="-34.4142685,-70.8548813"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Vicente"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital San Vicente de Tagua-Tagua"
+ H="Juan Bautista Pastene 100"
+ J="-35.0359344,-58.4119453"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pichidegua"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Pichidegua"
+ H="O'Higgins 160"
+ J="-34.3589706,-71.2834015"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Fernando"
+ E="Servicio"
+ F="Establecimiento Mayor Complejidad"
+ G="Hospital San Juan de Dios (San Fernando)"
+ H="Negrete 1401"
+ J="34.2838898,-118.4386673"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Chimbarongo"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital Mercedes (Chimbarongo)"
+ H="Miraflores 990"
+ J="-34.7000809,-71.037178"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Nancagua"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Nancagua"
+ H="10 de Septiembre 464"
+ J="-34.6503906,-71.2047501"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Santa Cruz"
+ E="Servicio"
+ F="Establecimiento Mediana Complejidad"
+ G="Hospital de Santa Cruz"
+ H="Avda. Errazuriz 921"
+ J="36.9740181,-122.0309525"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Marchihue"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Marchigue"
+ H="Laureano Cornejo 410"
+ J="-34.3987389,-71.6171188"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Lolol"
+ E="Servicio"
+ F="Establecimiento Menor Complejidad"
+ G="Hospital de Lolol"
+ H="Los Alerces 35"
+ J="-34.7293701,-71.6694107"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Enrique Dinstrans (1)"
+ H="Provincial Irene Frei S/N"
+ J="-34.1749191,-70.7640076"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar San Rafael"
+ H="Provincial Irene Frei S/N"
+ J="-34.1749191,-70.7640076"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Abel Zapata (3)"
+ H="Miguel Ramirez (con I. Palma)"
+ J="-34.1743584,-70.7138824"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Maria Latiffe (4)"
+ H="Republica (Esquina Recreo)"
+ J="-34.1260986,-70.816597"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Juan Chiorrini (5)"
+ H="Avda. La Compania S/N"
+ J="-34.1605606,-70.7106705"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Machali"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Machali"
+ H="Castro N°398"
+ J="-34.1831284,-70.650322"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Mostazal"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar San Francisco Mostazal"
+ H="Calle Luco S/N"
+ J="-33.9779701,-70.7085037"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Codegua"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Codegua"
+ H="O'Higgins 376, Codegua"
+ J="38.3465881,-122.9732132"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Coltauco"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Coltauco"
+ H="Avda. Arturo Prat S/N"
+ J="-34.2912598,-71.0818329"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Requinoa"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Requinoa"
+ H="Comercio S/N"
+ J="-34.2841415,-70.814621"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Las Cabras"
+ H="John Kennedy 506"
+ J="-34.2957115,-71.3090134"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Peralillo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Peralillo"
+ H="Cardenal Caro S/N, Pueblo de Peralillo"
+ J="35.0515099,-106.6701508"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="La Estrella"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar La Estrella"
+ H="21 de Mayo N°S/N"
+ J="18.83955,-98.9395828"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Chepica"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Chepica"
+ H="18 de Septiembre S/N"
+ J="-34.7240486,-71.2801971"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Fernando"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Chacabuco"
+ H="Manso de Velasco S/N"
+ J="34.2838898,-118.4386673"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Santa Cruz"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Santa Cruz"
+ H="Avda. Diego Portales 625"
+ J="28.069674,-16.662626"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Donihue"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Lo Miranda"
+ H="Pedro Aguirre Cerda S/N"
+ J="41.688839,-90.6754837"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rengo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Rosario"
+ H="San Ignacio S/N"
+ J="-34.3490105,-70.8377686"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Fernando"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Oriente de San Fernando"
+ H="Jose Miguel Carrera S/N"
+ J="16.8188496,-96.895752"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Fernando"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Oriente de San Fernando"
+ H="Jose Miguel Carrera S/N"
+ J="16.8188496,-96.895752"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar 6"
+ H="Avda. Constanza 1790, Pob. Vicuna Mackenna"
+ J="-34.149437,-70.7095261"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Malloa"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar de Malloa"
+ H="Bernales 127"
+ J="37.7731781,-79.9711609"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Malloa"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar de Pelequen"
+ H="Pueblo de Pelequen"
+ J="-34.4762001,-70.8733978"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Olivar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Olivar Alto"
+ H="Rafael Estrada 200, Olivar Alto"
+ J="47.1152802,-101.3403702"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Nancagua"
+ E="Municipal"
+ F="Centro de Salud Rural"
+ G="Consultorio Cunaco"
+ H="Pueblo de Cunaco"
+ J="-34.6678009,-71.1919022"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rengo"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Rengo"
+ H="Avda. Arturo Prat N°1850"
+ J="-34.3963127,-70.8512497"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Olivar"
+ E="Municipal"
+ F="Centro de Salud Familiar"
+ G="Centro de Salud Familiar Gultro"
+ H="Calle Orocoipo N°S/N, Ciudad de Gultro"
+ J="39.9199409,-79.7173386"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Carmen ( Las Cabras)"
+ H="Aldea El Carmen"
+ J="18.4325008,-66.0402985"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Coltauco"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Idahue"
+ H="Aldea Idahue"
+ J="34.4741402,-86.6948929"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Coltauco"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Rinconada de Parral"
+ H="Caserio Rinconada de Parral"
+ J="34.4741402,-86.6948929"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Coltauco"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Lo de Cuevas"
+ H="Aldea Lo de Cuevas"
+ J="34.4741402,-86.6948929"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Requinoa"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Abra"
+ H="Campo Lindo 1, Aldea El Abra"
+ J="-34.2864189,-70.8215866"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Panchina"
+ H="Sector La Panchina"
+ J="18.4325008,-66.0402985"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Cebada"
+ H="Aldea La Cebada"
+ J="18.4325008,-66.0402985"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Ines"
+ H="Aldea Santa Ines"
+ J="-34.2916908,-71.3058701"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Manzano"
+ H="Pueblo El Manzano"
+ J="18.4325008,-66.0402985"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Llallauquen"
+ H="Aldea Llallauquen"
+ J="18.4325008,-66.0402985"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rengo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Popeta"
+ H="La Granja, Caserio Popeta"
+ J="39.5273819,-119.8134384"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rengo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cerrillos (Rengo)"
+ H="Avda. Bernardo O'Higgins s/n, Aldea Cerrillos"
+ J="37.9529419,-98.0861282"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Malloa"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Corcolen"
+ H="Aldea Corcolen"
+ J="37.7731781,-79.9711609"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rengo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Lo de Lobos"
+ H="Caserio Lo de Lobo"
+ J="39.5273819,-119.8134384"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Vicente"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Zuniga"
+ H="El Manzano s/n, Aldea Zuniga"
+ J="37.990181,-122.0074463"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Vicente"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pencahue"
+ H="Aldea Pencahue"
+ J="13.608572,-88.7196121"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Vicente"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Rinconada"
+ H="Aldea Rinconada"
+ J="13.608572,-88.7196121"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Vicente"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Tambo"
+ H="Pueblo El Tambo"
+ J="-0.97977,-80.2940979"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pichidegua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Larmahue"
+ H="Aldea de Larmahue"
+ J="-34.3712006,-71.3394012"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pichidegua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Amelia"
+ H="Sector Santa Amelia"
+ J="-34.3712006,-71.3394012"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pichidegua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Patagua Orilla"
+ H="Aldea Patagua Orilla"
+ J="-34.309269,-71.3871918"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pichidegua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Patagua Cerro"
+ H="Aldea Patagua Cerro"
+ J="-34.309269,-71.3871918"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Durazno (Las Cabras)"
+ H="Sector El Durazno"
+ J="18.4325008,-66.0402985"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Fernando"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Puente Negro"
+ H="Camino Internacional, Aldea Puente Negro"
+ J="34.2838898,-118.4386673"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Placilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural La Dehesa"
+ H="Aldea La Dehesa"
+ J="33.5310555,-117.7267914"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Fernando"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Agua Buena"
+ H="J. Fernandez s/n, Aldea Agua Buena"
+ J="34.2838898,-118.4386673"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Chimbarongo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Tinguiririca"
+ H="Calle Manuel Rodriguez, Pueblo Tinguiririca"
+ J="-34.7112694,-71.0454483"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Chimbarongo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Codegua"
+ H="Aldea de Codegua"
+ J="-34.7517014,-70.981102"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Chimbarongo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Juan de La Sierra"
+ H="Caserio San Juan de la Sierra"
+ J="-34.7517014,-70.981102"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Nancagua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Yaquil"
+ H="Aldea Yaquil"
+ J="-34.647541,-71.2001114"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Santa Cruz"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Quinahue"
+ H="Aldea Quinahue"
+ J="42.177742,-8.153915"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Santa Cruz"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Isla de Yaquil"
+ H="Aldea Isla de Yaquil"
+ J="36.9740181,-122.0309525"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Palmilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Palmilla (Palmilla)"
+ H="Ciudad de Palmilla"
+ J="-34.5281982,-71.3528976"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Palmilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pupilla"
+ H="Aldea Pupilla"
+ J="33.5310555,-117.7267914"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Palmilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Jose del Carmen"
+ H="Aldea San Jose del Carmen"
+ J="-34.5281982,-71.3528976"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Palmilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Santa Irene"
+ H="Aldea Santa Irene"
+ J="-34.5281982,-71.3528976"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Santa Cruz"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Apalta"
+ H="Sector Apalta"
+ J="36.9740181,-122.0309525"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Peralillo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Los Cardos"
+ H="Caserio Los Cardos"
+ J="35.3044815,-106.5491791"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Peralillo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Calleuque"
+ H="Caserio Calleuque"
+ J="35.3044815,-106.5491791"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pichilemu"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cahuil"
+ H="Sector Cahuil"
+ J="-34.4729805,-72.0230331"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Lolol"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural El Membrillo"
+ H="Caserio El Membrillo"
+ J="46.7582703,-114.0820007"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Navidad"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Pupuya"
+ H="Caserio Pupuya"
+ J="29.0655003,-96.7690964"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Navidad"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Rapel (Navidad)"
+ H="Aldea Rapel"
+ J="-33.9406586,-71.7363129"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Navidad"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Vicente de Pucalan"
+ H="Caserio San Vicente de Pucalan"
+ J="29.0655003,-96.7690964"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Chepica"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Auquinco"
+ H="Pueblo Auquinco"
+ J="-34.7913017,-71.3592987"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Paredones"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Bucalemu (Paredones)"
+ H="Pueblo de Bucalemu"
+ J="-34.6449013,-72.0327682"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Paredones"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Pedro de Alcantara"
+ H="Aldea San Pedro de Alcantara"
+ J="41.1759529,-8.3945112"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Chepica"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Candelaria ( Chepica)"
+ H="Caserio Candelaria"
+ J="-34.7913017,-71.3592987"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rengo"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Lo Cartagena"
+ H="Aldea Lo Cartagena"
+ J="-34.3948097,-70.8632584"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pumanque"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Nilahue Cornejo"
+ H="Aldea Nilahue Cornejo"
+ J="-34.6603889,-71.7435303"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Lolol"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Ranguil"
+ H="Caserio Ranguil"
+ J="46.7582703,-114.0820007"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pichidegua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Roberto"
+ H="Aldea San Roberto"
+ J="-34.4028587,-71.3412399"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Pichidegua"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural San Jose de Marchigue"
+ H="Aldea San Jose de Marchihue"
+ J="-34.2954597,-71.437851"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Placilla"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Lo Moscoso"
+ H="Aldea Lo Moscoso"
+ J="-34.6192017,-71.0861969"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Olivar"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Olivar Bajo"
+ H="Julio Montt N°S/N"
+ J="39.9199409,-79.7173386"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Las Cabras"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Cocalan"
+ H="La Represa N°S/N"
+ J="22.8666992,-82.0500031"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Vicente"
+ E="Municipal"
+ F="Posta de Salud Rural"
+ G="Posta de Salud Rural Idahue"
+ H="Idahue N°S/N"
+ J="37.990181,-122.0074463"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Dr. Eduardo de Geyter"
+ H="Santa Adela 769, Pob. Dintrans"
+ J="-34.1942558,-70.7431564"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Ciudad de Paju"
+ H="Los Arcangeles N°1249, ViIIa Don Mateo"
+ J="-34.1283417,-70.7383804"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="San Fernando"
+ E="Municipal"
+ F="Centro Comunitario de Salud Familiar"
+ G="Centro Comunitario de Salud Familiar Consultorio Chacabuco"
+ H="Avelino Barros S/N"
+ J="32.59515,-115.51931"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Enrique Dintrans"
+ H="Avda. Baquedano 626"
+ J="-34.1663399,-70.7643433"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Abel Zapata"
+ H="Miguel Ramirez (esquina I. Palma)"
+ J="-34.1743584,-70.7138824"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Maria Latiffe"
+ H="Republica (esquina Recreo)"
+ J="-34.1260986,-70.816597"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Machali"
+ E="Municipal"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Machali"
+ H="Miranda 420"
+ J="-34.1800308,-70.6480865"
+/></record><record>
+<Row
+ A="6"
+ C="Del Libertador B.O'Higgins"
+ D="Rancagua"
+ E="Servicio"
+ F="Servicio de Atencion Primaria de Urgencia"
+ G="SAPU-Rancagua"
+ H="Avda. Martinez de Rozs S/N"
+ J="-34.1642494,-70.7150803"
+/></record>
+  <record>
+    <Row
+     A="7"
+     C="Del Maule"
+     D="Talca"
+     E="Servicio"
+     F="Clinica Dental Movil"
+     G="Clinica Dental Movil (Talca)"
+     H="1 Oriente 936"
+     J="-35.4290085,-71.6653519"
+/>
+  </record>
+</Records>

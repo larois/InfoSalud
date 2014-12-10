@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.5">
+    <id>Microsoft.Windows.Ocr</id>
+    <version>1.0.0</version>
+    <title>Microsoft OCR Library for Windows Runtime</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/windows_runtime_ocr_library_terms_of_use.htm</licenseUrl>
+    <projectUrl>http://msdn.microsoft.com/en-us/library/windows/apps/windowspreview.media.ocr.aspx</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkId=521772</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The Microsoft OCR Library for Windows Runtime allows developers to add text recognition capabilities to their apps.
+
+Supported platforms: Windows Phone 8, Windows Phone 8.1, Windows 8.1 (Windows Store apps only).
+
+Supported languages: Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish, Turkish.
+
+Terms of use: Please review the license. This is a stable version of the library and it can be used in apps published on the Store.
+
+Documentation: Available at msdn.microsoft.com.
+
+Code sample: Available at code.msdn.microsoft.com.</description>
+    <summary>The Microsoft OCR Library for Windows Runtime allows developers to add text recognition capabilities to their apps.</summary>
+    <releaseNotes>Public Release</releaseNotes>
+    <copyright>(c) Microsoft Corporation. All rights reserved.</copyright>
+    <tags>Microsoft OCR WinRT WindowsPhone Windows WindowsStore</tags>
+    <references>
+      <reference file="WindowsPreview.Media.Ocr.winmd" />
+    </references>
+  </metadata>
+</package>

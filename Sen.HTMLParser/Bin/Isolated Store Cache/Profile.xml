@@ -1,0 +1,1937 @@
+﻿<?xml version="1.0" encoding="utf-8"?><span>
+
+
+<!--CTYPE ht -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><link href="http://i1.code.msdn.s-msft.com/RequestReduceContent/d3996aedcf28493dfc314013b9213126-1c102e43bfe62f6fd3db71683a67480d-RequestReducedStyle.css" rel="Stylesheet" type="text/css" /><meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="description" content="Download code samples and examples for Windows 8, Windows Azure, Office, SharePoint, Silverlight and other products in C#, VB.NET, JavaScript, and C++." />
+    <meta name="Search.BRAND" content="Msdn" />
+    <meta name="Search.IROOT" content="msdn" />
+
+    <link rel="shortcut icon" href="http://i1.code.msdn.s-msft.com/GlobalResources/images/Msdn/favicon.ico" type="image/x-icon" /> <meta name="CommunityInfo" content=" B=Msdn;A=Samples;L=en-US;" />
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.7.1.min.js" type="text/javascript" language="javascript">
+//<![CDATA[
+
+//]]>//
+</script>
+    <script src="http://i1.code.msdn.s-msft.com/RequestReduceContent/a40fe9366ee05384079db10a1d511c5a-2627c2e4707836274afeda5d12aa411b-RequestReducedScript.js" type="text/javascript">
+//<![CDATA[
+
+//]]>//
+</script>    
+    <title>Sample Code - MSDN Examples in C#, VB.NET, C++, JavaScript, F#</title> 
+        <link href="/site/feeds/searchRss" rel="Alternate" type="application/rss+xml" title="Sample Code - MSDN Examples in C#, VB.NET, C++, JavaScript, F#" />
+    <link rel="P3Pv1" href="/W3C/p3p.xml" />
+    
+    <link id="rssSearchLink" rel="alternate" type="application/rss+xml" href="/site/feeds/search?sortBy=Popularity" title="MSDN developer samples: search feed" />
+
+    <meta name="ContentLanguage" content="L=en-US;" />
+
+<!--
+Third party scripts and code linked to or referenced from this website are licensed to you by the parties that own such code, not by Microsoft.  See ASP.NET Ajax CDN Terms of Use – http://www.asp.net/ajaxlibrary/CDN.ashx.
+ -->
+</head>
+<body class=" en-us Samples " dir="ltr">
+    
+
+<div data-chameleon-template="epxheader"></div>
+<div data-chameleon-template="header">        
+    <input type="hidden" id="isHeaderBleeding" value="true" xmlns="http://www.w3.org/1999/xhtml" />
+    <div id="ux-header" xmlns="http://www.w3.org/1999/xhtml">
+        
+
+        <header>
+            <div class="row">
+                <div class="top mobile"></div>
+                <div class="left">
+                    <div data-fragmentname="SiteLogo" id="Fragment_SiteLogo" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="http://msdn.microsoft.com/en-us" id="27762_1" xmlns="http://www.w3.org/1999/xhtml">Developer Network</a>
+</div>     
+                    <div id="grip"></div>  
+                </div>
+                
+                <div class="right desktop">
+                    <div class="auxNav">
+                        <div data-fragmentname="Subscriptions" id="Fragment_Subscriptions" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="http://msdn.microsoft.com/dn369243" id="27762_5" xmlns="http://www.w3.org/1999/xhtml">MSDN subscriptions</a>
+</div>   
+                        <div data-fragmentname="GetTools" id="Fragment_GetTools" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="http://go.microsoft.com/fwlink/?LinkId=309297&amp;clcid=0x409&amp;slcid=0x409" id="27762_3" xmlns="http://www.w3.org/1999/xhtml">Get tools</a>
+</div>   
+                        
+
+        <div class="SignedOutProfileElement profileName"><a class="createProfileLink" href="" title=""></a></div>
+    <div class="signIn"><a class="scarabLink" href="https://login.live.com/login.srf?wa=wsignin1.0&amp;wtrealm=code.msdn.microsoft.com&amp;wreply=https%3a%2f%2fcode.msdn.microsoft.com%2f%3fstoAI%3d10&amp;wp=MBI_FED_SSL&amp;wlcxt=microsoft%24microsoft%24microsoft" title="Sign in">Sign in</a></div>
+
+                    </div>
+                    <div data-fragmentname="SearchBox" id="Fragment_SearchBox" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="SearchBox">
+    <form id="HeaderSearchForm" name="HeaderSearchForm" method="get" action="http://social.msdn.microsoft.com/Search" onsubmit="return Epx.Controls.SearchBox.searchBoxOnSubmit(this, this.title);" />
+      <input id="HeaderSearchTextBox" name="query" type="text" maxlength="200" onfocus="Epx.Controls.SearchBox.watermarkFocus(this, this.title, 'SearchBoxOnFocus')" onblur="Epx.Controls.SearchBox.watermarkBlur(this, this.title, 'SearchBoxOnFocus')" />
+      <input id="RefinementId" name="refinement" type="hidden" value="" />
+      <button id="HeaderSearchButton" value="" type="submit" class="header-search-button"></button>
+    &lt;/form&gt;
+    
+  </div>
+</div> 
+                </div>
+            </div>
+       
+            <div class="row" id="droor">
+                <div class="left">
+                            <nav>
+            <ul>
+                     <li class="inactive">
+
+                         <a href="http://msdn.microsoft.com/dn308572" title="Home">Home</a>
+
+                     </li>
+                     <li class="inactive">
+
+                         <a href="http://msdn.microsoft.com/dn271881" title="Opportunity">Opportunity</a>
+                                 <div class="area">
+                                     <div class="arrow"></div>
+                                 </div>
+                                 <div class="subNav">
+                                     <ul>
+                                                 <li><a href="http://msdn.microsoft.com/dn338450" title=".NET">.NET</a></li>
+                                                 <li><a href="http://msdn.microsoft.com/dn338159" title="Cloud">Cloud</a></li>
+                                                 <li><a href="http://msdn.microsoft.com/dn469160" title="Desktop">Desktop</a></li>
+                                                 <li><a href="http://msdn.microsoft.com/dn338268" title="Phone">Phone</a></li>
+                                                 <li><a href="http://msdn.microsoft.com/dn308583" title="Tablet &amp; PC">Tablet &amp; PC</a></li>
+                                                 <li><a href="http://msdn.microsoft.com/dn338449" title="Web">Web</a></li>
+                                     </ul>
+                                 </div>
+
+                     </li>
+                     <li class="inactive">
+
+                         <a href="http://msdn.microsoft.com/dn271880" title="Platform">Platform</a>
+
+                     </li>
+                     <li class="inactive">
+
+                         <a href="http://msdn.microsoft.com/dn338064" title="Connect">Connect</a>
+                                 <div class="area">
+                                     <div class="arrow"></div>
+                                 </div>
+                                 <div class="subNav">
+                                     <ul>
+                                                 <li><a href="http://tech-advisors.msdn.microsoft.com/en-us" title="Tech Advisors">Tech Advisors</a></li>
+                                                 <li><a href="http://events.msdn.microsoft.com/en-us" title="Events">Events</a></li>
+                                                 <li><a href="http://social.msdn.microsoft.com/forums/" title="Forums">Forums</a></li>
+                                     </ul>
+                                 </div>
+
+                     </li>
+                     <li class="inactive">
+
+                         <a href="http://msdn.microsoft.com/dn292944" title="Downloads">Downloads</a>
+                                 <div class="area">
+                                     <div class="arrow"></div>
+                                 </div>
+                                 <div class="subNav">
+                                     <ul>
+                                                 <li><a href="http://msdn.microsoft.com/dn369242" title="Developer tools">Developer tools</a></li>
+                                                 <li><a href="http://msdn.microsoft.com/dn369240" title="SDKs">SDKs</a></li>
+                                                 <li><a href="http://msdn.microsoft.com/dn369243" title="MSDN subscriptions">MSDN subscriptions</a></li>
+                                     </ul>
+                                 </div>
+
+                     </li>
+                     <li class="inactive">
+
+                         <a href="http://msdn.microsoft.com/library" title="Library">Library</a>
+
+                     </li>
+                     <li class="active current">
+
+                         <a href="http://code.msdn.microsoft.com/" title="Samples">Samples</a>
+
+                     </li>
+            </ul>
+          
+        </nav>        
+       
+                </div>
+                <div class="right mobile"></div>
+                <div class="right">
+                    <div data-fragmentname="SocialLinks" id="Fragment_SocialLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="LinkList">
+    <div class="LinkListTitle">Join us</div>
+    <div class="Links">
+      <ul class="LinkColumn horizontal">
+        <li>
+          <a href="http://www.facebook.com/microsoftdeveloper" target="_blank" id="SocialLinks_430_7" class="facebook" xmlns="http://www.w3.org/1999/xhtml">http://www.facebook.com/microsoftdeveloper</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/msdev" target="_blank" id="SocialLinks_430_8" class="twitter" xmlns="http://www.w3.org/1999/xhtml">https://twitter.com/msdev</a>
+        </li>
+        <li>
+          <a href="http://plus.google.com/111221966647232053570/" target="_blank" id="SocialLinks_430_9" class="googlePlus" xmlns="http://www.w3.org/1999/xhtml">http://plus.google.com/111221966647232053570/</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div> 
+                </div>
+                <span id="singleCol"></span>
+                <span id="doubleCol"></span>
+            </div>
+        </header>
+    </div>
+    
+    
+<script type="text/javascript" xmlns="http://www.w3.org/1999/xhtml">
+//<![CDATA[
+
+/*&lt;![CDATA[*/
+/**/
+(window.MTPS || (window.MTPS = {})).cdnDomains || (window.MTPS.cdnDomains = { 
+	&quot;image&quot;: &quot;http://i.msdn.microsoft.com&quot;, 
+	&quot;js&quot;: &quot;http://i2.msdn.microsoft.com&quot;, 
+	&quot;css&quot;: &quot;http://i3.msdn.microsoft.com&quot;
+});
+/**/
+/*]]&gt;*/
+
+//]]>//
+</script><script type="text/javascript" src="http://i2.msdn.microsoft.com/Areas/Epx/Themes/Base/Content/SearchBox.js" xmlns="http://www.w3.org/1999/xhtml">
+//<![CDATA[
+
+//]]>//
+</script><script type="text/javascript" src="http://i2.services.social.microsoft.com/search/Widgets/SearchBox.jss?boxid=HeaderSearchTextBox&amp;btnid=HeaderSearchButton&amp;brand=MSDN&amp;loc=en-US&amp;focusOnInit=false&amp;emptyWatermark=true&amp;searchButtonTooltip=Search MSDN" xmlns="http://www.w3.org/1999/xhtml">
+//<![CDATA[
+
+//]]>//
+</script><script src="http://i1.code.msdn.s-msft.com/RequestReduceContent/80c2f1781f973ba0006a5e1256c7ed38-557d0c4f95514a632d52048eecffc589-RequestReducedScript.js" type="text/javascript">
+//<![CDATA[
+
+//]]>//
+</script></div>
+    <div id="BodyBackground" class="ltr">
+        <div id="JelloSizer">    
+            <div id="JelloExpander">
+                <div id="JelloWrapper">
+                    <div class="Clear"> </div>
+                    
+                   
+                    
+                    
+                    <div class="Clear"> </div>
+                          
+                    <div class="topleftcorner"></div>           
+                    <div class="toprightcorner"></div>                                
+                    <div class="alley"> <!-- Left Side  -->
+                        <div class="wrapper"> <!-- Right Side  -->
+                            <div class="inner">  
+                            
+                                                 
+                                <div class="Clear"></div>   
+
+
+                                
+                                
+                                
+                                
+                                <div id="MainContent" class="Msdn">
+                                    
+    
+    
+
+    <script language="javascript" type="text/javascript">
+//<![CDATA[
+
+        $(function () { Galleries.cookie.setTimezoneOffsetCookie(); })
+    
+//]]>//
+</script>
+
+    <div id="container">
+        
+            <div id="GalleriesNavigation">
+                
+            </div>            
+        
+        
+            <div id="subHeader">
+                <div id="eyebrow" class="left">
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="EyebrowContainer">
+    
+    
+
+    
+<div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" class="EyebrowElement">
+    <a href="http://msdn.microsoft.com/en-US/" itemprop="url">
+        <span itemprop="title">Microsoft Developer Network</span>
+    </a>
+</div>
+<text>&gt;</text>
+
+    
+    
+    
+    <div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" class="EyebrowElement">
+            <span itemprop="title">Samples</span>
+    </div>
+
+
+
+</div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        
+        
+            <div id="siteMessage">
+                
+
+
+
+
+
+
+            </div>
+            <div class="clear"></div>
+        
+        
+
+<div class="subMenu">
+    <script language="javascript" type="text/javascript">
+//<![CDATA[
+
+        $(document).ready(function () {
+            $('.internav &gt; a').each(function (index, elem) {
+                if ($(elem).attr('href').toUpperCase().indexOf('CODE') != -1) {
+                    $(elem).addClass('active');
+                }
+                if ($(elem).attr('href').toUpperCase().indexOf('SMPGDB') != -1) {
+                    $(elem).addClass('active');
+                }
+
+            });
+        });
+    
+//]]>//
+</script>
+</div>      
+        <div class="clear"></div>
+
+        <div id="bodyContainer">
+            
+
+    <div id="searchPage">
+         <div id="sideNav">
+             <div data-chameleon-template="actionbox"></div>
+             
+
+
+<div class="section" id="contributeSection">
+<div class="contributeAction">
+    <a href="http://go.microsoft.com/fwlink/?LinkId=309297"><img src="http://i1.code.msdn.s-msft.com/content/common/download.png" />Download Visual Studio</a>
+</div>
+    <h3>Quick access</h3>
+
+<div id="myContributionsAction">
+    <div>
+        <a id="myContributionsLink" href="/site/mydashboard">
+            My samples
+        </a>
+    </div>
+</div>
+
+<div id="uploadAction">
+    <a id="uploadLink" href="/site/upload">Upload a sample</a>
+</div>
+
+    <div id="requestAction">
+        <a id="exclamationLink" href="/site/requests">Browse sample requests</a>
+    </div>
+</div>
+
+
+
+             <div id="sideNavHeader"> 
+                   
+             </div>
+             <div id="sideNavContent">
+                
+<div class="section">
+    <h3>Platform                                                                                                                                                                                                                                                       </h3>
+        <form action="" />
+                <div>
+                    <div class="itemCount">4068</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dPlatform\x26f\x255B0\x255D.Value\x3dDesktop\x26f\x255B0\x255D.Text\x3dDesktop&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Platform&amp;f%5B0%5D.Value=Desktop&amp;f%5B0%5D.Text=Desktop">Desktop</a>
+                </div>
+                <div>
+                    <div class="itemCount">1946</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dPlatform\x26f\x255B0\x255D.Value\x3dWeb\x26f\x255B0\x255D.Text\x3dWeb&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Platform&amp;f%5B0%5D.Value=Web&amp;f%5B0%5D.Text=Web">Web</a>
+                </div>
+                <div>
+                    <div class="itemCount">1438</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dPlatform\x26f\x255B0\x255D.Value\x3dCloud\x26f\x255B0\x255D.Text\x3dCloud&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Platform&amp;f%5B0%5D.Value=Cloud&amp;f%5B0%5D.Text=Cloud">Cloud</a>
+                </div>
+                <div>
+                    <div class="itemCount">872</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dPlatform\x26f\x255B0\x255D.Value\x3dWindows\x2520RT\x26f\x255B0\x255D.Text\x3dWindows\x2520Store\x2520apps&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Platform&amp;f%5B0%5D.Value=Windows%20RT&amp;f%5B0%5D.Text=Windows%20Store%20apps">Windows Store apps</a>
+                </div>
+                <div>
+                    <div class="itemCount">820</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dPlatform\x26f\x255B0\x255D.Value\x3dData\x26f\x255B0\x255D.Text\x3dData&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Platform&amp;f%5B0%5D.Value=Data&amp;f%5B0%5D.Text=Data">Data</a>
+                </div>
+                <div>
+                    <div class="itemCount">598</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dPlatform\x26f\x255B0\x255D.Value\x3dPhone\x26f\x255B0\x255D.Text\x3dPhone&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Platform&amp;f%5B0%5D.Value=Phone&amp;f%5B0%5D.Text=Phone">Phone</a>
+                </div>
+                <div>
+                    <div class="itemCount">68</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dPlatform\x26f\x255B0\x255D.Value\x3dXbox\x26f\x255B0\x255D.Text\x3dXbox&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Platform&amp;f%5B0%5D.Value=Xbox&amp;f%5B0%5D.Text=Xbox">Xbox</a>
+                </div>
+        &lt;/form&gt;
+</div>
+
+<div class="section">
+    <h3>Visual Studio version                                                                                                                                                                                                                                          </h3>
+        <form action="" />
+                <div>
+                    <div class="itemCount">3014</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dVisualStudioVersion\x26f\x255B0\x255D.Value\x3d10.0\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x25202010&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=VisualStudioVersion&amp;f%5B0%5D.Value=10.0&amp;f%5B0%5D.Text=Visual%20Studio%202010">Visual Studio 2010</a>
+                </div>
+                <div>
+                    <div class="itemCount">1903</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dVisualStudioVersion\x26f\x255B0\x255D.Value\x3d11.0\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x25202012&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=VisualStudioVersion&amp;f%5B0%5D.Value=11.0&amp;f%5B0%5D.Text=Visual%20Studio%202012">Visual Studio 2012</a>
+                </div>
+                <div>
+                    <div class="itemCount">845</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dVisualStudioVersion\x26f\x255B0\x255D.Value\x3d9.0\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x25202008&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=VisualStudioVersion&amp;f%5B0%5D.Value=9.0&amp;f%5B0%5D.Text=Visual%20Studio%202008">Visual Studio 2008</a>
+                </div>
+                <div>
+                    <div class="itemCount">668</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dVisualStudioVersion\x26f\x255B0\x255D.Value\x3d12.0\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x25202013&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=VisualStudioVersion&amp;f%5B0%5D.Value=12.0&amp;f%5B0%5D.Text=Visual%20Studio%202013">Visual Studio 2013</a>
+                </div>
+                <div>
+                    <div class="itemCount">73</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dVisualStudioVersion\x26f\x255B0\x255D.Value\x3d8.0\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x25202005&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=VisualStudioVersion&amp;f%5B0%5D.Value=8.0&amp;f%5B0%5D.Text=Visual%20Studio%202005">Visual Studio 2005</a>
+                </div>
+                <div>
+                    <div class="itemCount">57</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dVisualStudioVersion\x26f\x255B0\x255D.Value\x3dVSLS\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x2520LightSwitch&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=VisualStudioVersion&amp;f%5B0%5D.Value=VSLS&amp;f%5B0%5D.Text=Visual%20Studio%20LightSwitch">Visual Studio LightSwitch</a>
+                </div>
+                <div>
+                    <div class="itemCount">18</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dVisualStudioVersion\x26f\x255B0\x255D.Value\x3d7.0\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x25202002&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=VisualStudioVersion&amp;f%5B0%5D.Value=7.0&amp;f%5B0%5D.Text=Visual%20Studio%202002">Visual Studio 2002</a>
+                </div>
+                <div>
+                    <div class="itemCount">4</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dVisualStudioVersion\x26f\x255B0\x255D.Value\x3d7.1\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x25202003&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=VisualStudioVersion&amp;f%5B0%5D.Value=7.1&amp;f%5B0%5D.Text=Visual%20Studio%202003">Visual Studio 2003</a>
+                </div>
+        &lt;/form&gt;
+</div>
+
+<div class="section">
+    <h3>Programming language                                                                                                                                                                                                                                           </h3>
+        <form action="" />
+                <div>
+                    <div class="itemCount">4678</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dProgrammingLanguage\x26f\x255B0\x255D.Value\x3dC\x2523\x26f\x255B0\x255D.Text\x3dC\x2523&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23&amp;f%5B0%5D.Text=C%23">C#</a>
+                </div>
+                <div>
+                    <div class="itemCount">1882</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dProgrammingLanguage\x26f\x255B0\x255D.Value\x3dVB\x26f\x255B0\x255D.Text\x3dVB.NET&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=VB&amp;f%5B0%5D.Text=VB.NET">VB.NET</a>
+                </div>
+                <div>
+                    <div class="itemCount">1054</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dProgrammingLanguage\x26f\x255B0\x255D.Value\x3dC\x252B\x252B\x26f\x255B0\x255D.Text\x3dC\x252B\x252B&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%2B%2B&amp;f%5B0%5D.Text=C%2B%2B">C++</a>
+                </div>
+                <div>
+                    <div class="itemCount">527</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dProgrammingLanguage\x26f\x255B0\x255D.Value\x3dJavaScript\x26f\x255B0\x255D.Text\x3dJavaScript&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=JavaScript&amp;f%5B0%5D.Text=JavaScript">JavaScript</a>
+                </div>
+                <div>
+                    <div class="itemCount">50</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dProgrammingLanguage\x26f\x255B0\x255D.Value\x3dF\x2523\x26f\x255B0\x255D.Text\x3dF\x2523&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=F%23&amp;f%5B0%5D.Text=F%23">F#</a>
+                </div>
+        &lt;/form&gt;
+</div>
+
+<div class="section">
+    <h3>Contributors                                                                                                                                                                                                                                                   </h3>
+        <form action="" />
+                <div>
+                    <div class="itemCount">3658</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dMicrosoft\x26f\x255B0\x255D.Text\x3dMicrosoft&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft">Microsoft</a>
+                </div>
+                <div>
+                    <div class="itemCount">3322</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dCommunity\x26f\x255B0\x255D.Text\x3dCommunity&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Community&amp;f%5B0%5D.Text=Community">Community</a>
+                </div>
+                <div>
+                    <div class="itemCount">1535</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dAll-In-One\x2520Code\x2520Framework\x26f\x255B0\x255D.Text\x3dAll-in-One\x2520Code\x2520Framework\x2520team&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=All-In-One%20Code%20Framework&amp;f%5B0%5D.Text=All-in-One%20Code%20Framework%20team">All-in-One Code Framework team</a>
+                </div>
+                <div>
+                    <div class="itemCount">722</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dMicrosoft\x2520Office\x2520Developer\x2520Documentation\x2520Team\x26f\x255B0\x255D.Text\x3dOffice\x2520team&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft%20Office%20Developer%20Documentation%20Team&amp;f%5B0%5D.Text=Office%20team">Office team</a>
+                </div>
+                <div>
+                    <div class="itemCount">699</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dOfficial\x2520Windows\x2520SDK\x2520Sample\x26f\x255B0\x255D.Text\x3dWindows\x2520SDK&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample&amp;f%5B0%5D.Text=Windows%20SDK">Windows SDK</a>
+                </div>
+                <div>
+                    <div class="itemCount">158</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dOfficial\x2520Windows\x2520Driver\x2520Kit\x2520Sample\x26f\x255B0\x255D.Text\x3dWindows\x2520Driver\x2520Kit\x2520team&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Official%20Windows%20Driver%20Kit%20Sample&amp;f%5B0%5D.Text=Windows%20Driver%20Kit%20team">Windows Driver Kit team</a>
+                </div>
+                <div>
+                    <div class="itemCount">87</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dWindows\x2520Phone\x2520SDK\x2520Team\x26f\x255B0\x255D.Text\x3dWindows\x2520Phone\x2520SDK&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Windows%20Phone%20SDK%20Team&amp;f%5B0%5D.Text=Windows%20Phone%20SDK">Windows Phone SDK</a>
+                </div>
+                <div>
+                    <div class="itemCount">55</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dWindows\x2520Azure\x2520Product\x2520Team\x26f\x255B0\x255D.Text\x3dWindows\x2520Azure\x2520team&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Windows%20Azure%20Product%20Team&amp;f%5B0%5D.Text=Windows%20Azure%20team">Windows Azure team</a>
+                </div>
+                <div>
+                    <div class="itemCount">38</div>
+                        <input type="checkbox" onclick="window.location.href=&amp;#39;\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dContributors\x26f\x255B0\x255D.Value\x3dMicrosoft\x2520-\x2520Visual\x2520Studio\x2520Platform\x2520Team\x26f\x255B0\x255D.Text\x3dVisual\x2520Studio\x2520Platform\x2520team&amp;#39;" /><a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft%20-%20Visual%20Studio%20Platform%20Team&amp;f%5B0%5D.Text=Visual%20Studio%20Platform%20team">Visual Studio Platform team</a>
+                </div>
+        &lt;/form&gt;
+</div>
+
+
+<div class="section">
+
+    <h3>Technology</h3>
+    <ul>
+    
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dASP.NET'">
+                <div class="itemCount">601</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=ASP.NET">ASP.N<wbr />ET</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dC\x2523'">
+                <div class="itemCount">533</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=C%23">C#</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dWindows\x2520Forms'">
+                <div class="itemCount">432</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Forms">Windo<wbr />ws Forms</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dWPF'">
+                <div class="itemCount">427</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=WPF">WPF</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dWin32'">
+                <div class="itemCount">408</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Win32">Win32</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3d.NET\x2520Framework'">
+                <div class="itemCount">407</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=.NET%20Framework">.NET Frame<wbr />work</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dWindows\x2520Azure'">
+                <div class="itemCount">382</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Azure">Windo<wbr />ws Azure</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dXAML'">
+                <div class="itemCount">357</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=XAML">XAML</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dWindows\x2520Phone\x25208'">
+                <div class="itemCount">288</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Phone%208">Windo<wbr />ws Phone 8</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTechnology\x26f\x255B0\x255D.Value\x3dWindows\x2520Runtime'">
+                <div class="itemCount">285</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Runtime">Windo<wbr />ws Runti<wbr />me</a></div>
+            </li>
+        
+    </ul>
+
+</div>
+
+<div class="section">
+
+    <h3>Topic</h3>
+    <ul>
+    
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dControls'">
+                <div class="itemCount">380</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Controls">Contr<wbr />ols</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dUser\x2520Interface'">
+                <div class="itemCount">306</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=User%20Interface">User Inter<wbr />face</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dC\x2523'">
+                <div class="itemCount">194</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=C%23">C#</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dData\x2520Binding'">
+                <div class="itemCount">187</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Data%20Binding">Data Bindi<wbr />ng</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dData\x2520Access'">
+                <div class="itemCount">178</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Data%20Access">Data Acces<wbr />s</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dNetworking'">
+                <div class="itemCount">158</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Networking">Netwo<wbr />rking</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dSecurity'">
+                <div class="itemCount">134</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Security">Secur<wbr />ity</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dWindows\x2520Forms'">
+                <div class="itemCount">131</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Windows%20Forms">Windo<wbr />ws Forms</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dWindows\x2520web\x2520services'">
+                <div class="itemCount">121</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Windows%20web%20services">Windo<wbr />ws web servi<wbr />ces</a></div>
+            </li>
+        
+            <li onclick="window.location.href = '\x2fsite\x2fsearch\x3ff\x255B0\x255D.Type\x3dTopic\x26f\x255B0\x255D.Value\x3dGraphics\x2520and\x25203D'">
+                <div class="itemCount">120</div>
+                <div class="itemText"><a href="/site/search?f%5B0%5D.Type=Topic&amp;f%5B0%5D.Value=Graphics%20and%203D">Graph<wbr />ics and 3D</a></div>
+            </li>
+        
+    </ul>
+
+</div>
+            </div>
+        </div>
+        <div id="mainContentContainer">
+            <div id="mainContent">
+                
+
+<div class="dirSubHeading">
+            <h1>Developer code samples</h1>
+
+<h2>
+Download code samples and applications for <a href="http://code.msdn.microsoft.com/windowsapps/">Windows 8</a>, <a href="http://code.msdn.microsoft.com/wpapps/">Windows Phone</a>, <a href="http://code.msdn.microsoft.com/windowsazure/">Windows Azure</a>, <a href="http://code.msdn.microsoft.com/office/">Office</a>, <a href="http://code.msdn.microsoft.com/sharepoint/">SharePoint</a>, <a href="http://code.msdn.microsoft.com/silverlight/">Silverlight</a> and other products. You can also explore the Official Visual Studio <a href="http://code.msdn.microsoft.com/Visual-Studio-2010-Samples-31b491f3">C#</a>, <a href="http://code.msdn.microsoft.com/Official-Visual-Studio-f48134ec">VB.NET</a>, and <a href="http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b">101 LINQ</a> samples.<span><a href="/site/search?sortBy=Date">New samples</a> are added frequently in <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=JavaScript">JavaScript</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%2B%2B">C++</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=VB">Visual Basic</a>, and <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=F%23">F#</a>.</span>
+</h2>
+</div>
+
+                <div id="legalDisclaimer">Each sample is licensed to you by the party distributing it. Microsoft does not guarantee the samples or grant rights for any sample distributed by a party other than Microsoft. Use of this site is subject to the <a href="http://msdn.microsoft.com/en-US/cc300389.aspx">Terms of Use</a>.</div>
+                
+
+
+<script type="text/javascript" language="javascript">
+//<![CDATA[
+
+    var currentSearchContainerId;
+    function searchboxProcessWatermark(textField, watermark) {
+        if (textField.val() == watermark)
+        {
+            textField.val('');
+        }
+        currentSearchContainerId = 'searchbox';
+    }
+
+    function searchboxSetAutoComplete() {
+        var url = 'http://i4.services.social.microsoft.com/search/Widgets/SearchBox.jss';
+        var appId = '1005';
+        var watermark = 'Search for samples' ;
+        var source = Galleries.searchIntellisense.getUrl(url, appId, 'searchBox', 'searchbox_searchImg', watermark, '\x2fsite\x2fsearch');
+        Galleries.utility.loadJavaScript(source);
+    }
+
+    $(function() {
+        var waterMark = 'Search for samples';
+        var textField = $(&quot;#searchbox input[id='searchBox']&quot;);
+        textField.keydown(function(e) {
+            if (e.which == 13) {
+                searchboxProcessWatermark (textField, waterMark);
+            }
+        });
+
+        var searchBtn = $(&quot;#searchbox_searchImg&quot;);
+        if(searchBtn.length &gt; 0) {
+            searchBtn.click(function(e) {
+                searchboxProcessWatermark (textField, waterMark);
+            });
+        }
+
+        var globalsearchBox = window.epx_searchBox;
+        if(globalsearchBox &amp;&amp; globalsearchBox.prototype) {
+            var searchCall = globalsearchBox.executeSearch;
+            if(searchCall) {
+                window.epx_searchBox.prototype.executeSearch = function() {
+                    searchboxProcessWatermark(textField, waterMark);
+                    searchCall.call(this);
+                };
+            }
+        }
+
+        searchboxSetAutoComplete();
+        
+    });
+
+
+//]]>//
+</script>
+<div id="searchbox" class="searchbox">
+<form action="/site/search" method="get" />
+    <table cellspacing="0" cellpadding="0" class="srchbox">
+        <tbody>
+            <tr>
+                <td class="stxtcell">
+                    <input type="hidden" class="filter" name="f[0].Type" value="SearchText" />
+                    <input id="f[0].Value" class="filter stxtinptpassive" maxlength="1000" name="f[0].Value" type="text" value="Search for samples" onfocus="if(this.value == 'Search for samples'){this.value = '';} this.className = 'stxtinpt';" onblur="if(this.value == ''){this.value = 'Search for samples'; this.className='stxtinptpassive';}" />                        
+                    
+                </td>
+                <td id="searchImageCell">
+                    <input id="searchbox_searchImg" type="image" src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    &lt;/form&gt;
+</div>
+
+<div id="directoryContent">
+    <div class="boxPosition" id="directoryList">
+        <div class="browseFilterBar">
+            <div class="browseSort">
+                <span>Sort by:</span>
+                <select id="SortBy" name="SortBy"><option selected="selected" value="Popularity" />Popularity
+<option value="Date" />Release date
+<option value="LastModified" />Updated date
+<option value="Downloads" />Downloads
+<option value="Ratings" />Ratings
+<option value="TitleAsc" />Title
+<option value="AuthorAsc" />Author
+</select>
+                <a href="/site/feeds/searchRss?sortBy=Popularity">
+                    <img class="rss" src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" alt="rss" />
+                </a>
+            </div>
+            <div class="browseBreadcrumb">
+                <span>6980</span> 
+                <span>
+                        results
+                </span>
+                        
+
+<span class="fitlerCrumbs">
+    
+</span>
+
+
+            </div>
+        </div>
+        <div id="directoryItems">
+            <table class="itemContainer" cellpadding="0" cellspacing="0">
+                
+
+
+
+
+
+<tr class="itemRow editorPickedItem">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/AdventureWorks-Data-702f3dea">
+                AdventureWorks Data Binding sample
+            </a>
+        </div>
+                      <div>
+                  
+
+            <a class="profile-usercard-hover" data-profile-userid="f53740f0-1dfe-4cd0-bfda-252ecb8d506b" data-profile-usercard-customlink='{&quot;href&quot;:&quot;/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Migrated%20Galleries%20Content&quot;,&quot;text&quot;:&quot;View samples&quot;}' href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Migrated%20Galleries%20Content&amp;f%5B0%5D.Text=Migrated%20Galleries%20Content">Migrated Galleries Content
+    </a>
+    <script language="javascript" type="text/javascript">
+//<![CDATA[
+
+        if (false)
+            Galleries.utility.waitFor(
+                function() { $('.profile-points-bar, .profile-usercard-profileLink').hide(); });
+    
+//]]>//
+</script>
+               
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            The AdventureWorks Data Binding sample demonstrates data binding that uses the Entity Framework. This application displays and modifies SalesOrderDetai<wbr />l entities associated with SalesOrderHeade<wbr />r entities.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=ADO.NET%20Entity%20Framework&amp;f%5B0%5D.Text=ADO.NET%20Entity%20Framework">ADO.NET Entity Framework</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div class="editorPickedText">Featured</div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=VB">VB.NET</a>
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/Windows-8-Modern-Style-App-Samples">
+                Windows 8.1 app samples
+            </a>
+        </div>
+                      <div>
+                    <a href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample">
+                        <div class="contributionLogo logo_windows">
+                            <div class="contributionLogoTip">
+                                This sample was verified and tested by Windows SDK team.
+                            </div>
+                        </div>
+                    </a>
+                  
+            <div class="customcontribution">
+                <a class="customcontributionNameLink" href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample&amp;f%5B0%5D.Text=Official%20Windows%20SDK%20Sample">Official Windows SDK Sample</a>
+                <div class="customcontributionLogoTip">
+                    <div>
+                        <div class="customcontributionlogo  logo_windows_large"></div>
+                        <p class="customcontributionTittle">Official Windows SDK Sample MSFT</p>
+                    </div>
+                    <div class="clear"></div>
+                    <p class="customcontributionDiscription">Windows SDK samples are developed and tested by the Windows team to ensure that you have a great experience.</p>
+                    <a class="customcontributionLink" href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample&amp;f%5B0%5D.Text=Official%20Windows%20SDK%20Sample">View samples</a>
+                </div>
+            </div>
+
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            This sample pack includes all the app code examples developed and updated for Windows 8.1. The sample pack provides a convenient way to download all the samples at once. The samples in this sample pack are available in C#, Visual Basic, C++, and JavaScript.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=XAML&amp;f%5B0%5D.Text=XAML">XAML</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=HTML5&amp;f%5B0%5D.Text=HTML5">HTML5</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Runtime&amp;f%5B0%5D.Text=Windows%20Runtime">Windows Runtime</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="HalfRatingStar" />
+</span>
+            (283)
+        </div>
+        <div>
+            Updated 1/29/2014
+        </div>
+        <div>
+            Released 9/14/2011
+        </div>
+            <div>
+                932,473
+Downloads            </div>
+
+    <div>
+        
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/101-LINQ-Samples-3fb9811b">
+                101 LINQ Samples
+            </a>
+        </div>
+                      <div>
+                    <a href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Microsoft%20-%20Visual%20Studio%20Platform%20Team">
+                        <div class="contributionLogo logo_visualstudio">
+                            <div class="contributionLogoTip">
+                                This sample was verified and tested by Microsoft - Visual Studio Platform Team.
+                            </div>
+                        </div>
+                    </a>
+                  
+            <div class="customcontribution">
+                <a class="customcontributionNameLink" href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Microsoft%20-%20Visual%20Studio%20Platform%20Team&amp;f%5B0%5D.Text=Microsoft%20-%20Visual%20Studio%20Platform%20Team">Microsoft - Visual Studio Platform Team</a>
+                <div class="customcontributionLogoTip">
+                    <div>
+                        <div class="customcontributionlogo  logo_visualstudio_large"></div>
+                        <p class="customcontributionTittle">Microsoft - Visual Studio Platform Team MSFT</p>
+                    </div>
+                    <div class="clear"></div>
+                    <p class="customcontributionDiscription">Visual Studio Platform Team samples are developed and tested by the Visual Studio Platform Team to ensure that you have a great experience.</p>
+                    <a class="customcontributionLink" href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Microsoft%20-%20Visual%20Studio%20Platform%20Team&amp;f%5B0%5D.Text=Microsoft%20-%20Visual%20Studio%20Platform%20Team">View samples</a>
+                </div>
+            </div>
+
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            Learn how to use LINQ in your applications with these code samples, covering the entire range of LINQ functionality and demonstrating LINQ with SQL, DataSets, and XML.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=LINQ&amp;f%5B0%5D.Text=LINQ">LINQ</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+</span>
+            (171)
+        </div>
+        <div>
+            Updated 4/26/2012
+        </div>
+        <div>
+            Released 8/11/2011
+        </div>
+            <div>
+                171,839
+Downloads            </div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/Visual-Studio-2010-Samples-31b491f3">
+                Official Visual Studio 2010 Samples for C# 4.0
+            </a>
+        </div>
+                      <div>
+                    <a href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Microsoft%20-%20Visual%20Studio%20Platform%20Team">
+                        <div class="contributionLogo logo_visualstudio">
+                            <div class="contributionLogoTip">
+                                This sample was verified and tested by Microsoft - Visual Studio Platform Team.
+                            </div>
+                        </div>
+                    </a>
+                  
+            <div class="customcontribution">
+                <a class="customcontributionNameLink" href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Microsoft%20-%20Visual%20Studio%20Platform%20Team&amp;f%5B0%5D.Text=Microsoft%20-%20Visual%20Studio%20Platform%20Team">Microsoft - Visual Studio Platform Team</a>
+                <div class="customcontributionLogoTip">
+                    <div>
+                        <div class="customcontributionlogo  logo_visualstudio_large"></div>
+                        <p class="customcontributionTittle">Microsoft - Visual Studio Platform Team MSFT</p>
+                    </div>
+                    <div class="clear"></div>
+                    <p class="customcontributionDiscription">Visual Studio Platform Team samples are developed and tested by the Visual Studio Platform Team to ensure that you have a great experience.</p>
+                    <a class="customcontributionLink" href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Microsoft%20-%20Visual%20Studio%20Platform%20Team&amp;f%5B0%5D.Text=Microsoft%20-%20Visual%20Studio%20Platform%20Team">View samples</a>
+                </div>
+            </div>
+
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            These are the official samples for Visual Studio 2010 C# 4.0.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=COM&amp;f%5B0%5D.Text=COM">COM</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Office&amp;f%5B0%5D.Text=Office">Office</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=LINQ&amp;f%5B0%5D.Text=LINQ">LINQ</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+</span>
+            (85)
+        </div>
+        <div>
+            Updated 7/17/2012
+        </div>
+        <div>
+            Released 11/29/2011
+        </div>
+            <div>
+                381,390
+Downloads            </div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=VB">VB.NET</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%2B%2B">C++</a>
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/Getting-Started-with-221c01f5">
+                Getting Started with ASP.NET 4.5 Web Forms and Visual Studio 2013 - Wingtip Toys
+            </a>
+        </div>
+                      <div>
+                  
+
+            <a class="profile-usercard-hover" data-profile-userid="4f9bd8e3-cbe1-440c-999f-1feeb38a20da" data-profile-usercard-customlink='{&quot;href&quot;:&quot;/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=ErikReitan&quot;,&quot;text&quot;:&quot;View samples&quot;}' href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=ErikReitan&amp;f%5B0%5D.Text=ErikReitan">ErikReitan
+    </a>
+    <script language="javascript" type="text/javascript">
+//<![CDATA[
+
+        if (false)
+            Galleries.utility.waitFor(
+                function() { $('.profile-points-bar, .profile-usercard-profileLink').hide(); });
+    
+//]]>//
+</script>
+               
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            This download has been created for the ASP.NET 4.5 Web Forms and Visual Studio 2013 (Wingtip Toys) tutorial series. This series of tutorials guides you through the steps required to create an ASP.NET Web Forms application using Visual Studio Express 2013 for Web and ASP.NET 4.5.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=ASP.NET%20Web%20Forms&amp;f%5B0%5D.Text=ASP.NET%20Web%20Forms">ASP.NET Web Forms</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=ASP.NET%204.5&amp;f%5B0%5D.Text=ASP.NET%204.5">ASP.NET 4.5</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Visual%20Studio%20Express%202013%20for%20Web&amp;f%5B0%5D.Text=Visual%20Studio%20Express%202013%20for%20Web">Visual Studio Express 2013 for Web</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="HalfRatingStar" />
+</span>
+            (27)
+        </div>
+        <div>
+            Updated 1/29/2014
+        </div>
+        <div>
+            Released 4/6/2012
+        </div>
+            <div>
+                93,423
+Downloads            </div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/Simple-Calculator-d1d8cf4c">
+                Simple Calculator
+            </a>
+        </div>
+                      <div>
+                  
+
+            <a class="profile-usercard-hover" data-profile-userid="a779c319-6c69-49e1-b5e8-da02e36d3b05" data-profile-usercard-customlink='{&quot;href&quot;:&quot;/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Houssem%20Dellai&quot;,&quot;text&quot;:&quot;View samples&quot;}' href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Houssem%20Dellai&amp;f%5B0%5D.Text=Houssem%20Dellai">Houssem Dellai
+    </a>
+    <script language="javascript" type="text/javascript">
+//<![CDATA[
+
+        if (false)
+            Galleries.utility.waitFor(
+                function() { $('.profile-points-bar, .profile-usercard-profileLink').hide(); });
+    
+//]]>//
+</script>
+               
+              </div>
+        <div class="summaryBox">
+            What I build is just a simple calculator that will show beginners how much easy it is to develop applications using the .NET Framework. Through this sample, they will see some most useful algorithmic operations.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=C%23&amp;f%5B0%5D.Text=C%23">C#</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=WPF&amp;f%5B0%5D.Text=WPF">WPF</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=XAML&amp;f%5B0%5D.Text=XAML">XAML</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="HalfRatingStar" />
+</span>
+            (22)
+        </div>
+        <div>
+            Updated 8/15/2012
+        </div>
+        <div>
+            Released 8/14/2012
+        </div>
+            <div>
+                66,325
+Downloads            </div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/Hyper-V-Remote-Management-26d127c6">
+                Hyper-V Remote Management Configuration Utility (HVRemote)
+            </a>
+        </div>
+                      <div>
+                  
+
+            <a class="profile-usercard-hover" data-profile-userid="f7a6a498-3273-4344-a22b-08e20188fe15" data-profile-usercard-customlink='{&quot;href&quot;:&quot;/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=John%20Howard%20-MSFT&quot;,&quot;text&quot;:&quot;View samples&quot;}' href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=John%20Howard%20-MSFT&amp;f%5B0%5D.Text=John%20Howard%20-MSFT">John Howard -MSFT
+    </a>
+    <script language="javascript" type="text/javascript">
+//<![CDATA[
+
+        if (false)
+            Galleries.utility.waitFor(
+                function() { $('.profile-points-bar, .profile-usercard-profileLink').hide(); });
+    
+//]]>//
+</script>
+               
+              </div>
+        <div class="summaryBox">
+            HVRemote reduces the manual configuration steps needed for Hyper-V Remote Management down to a few simple commands, and can diagnose common configuration errors. 
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Hyper-V&amp;f%5B0%5D.Text=Hyper-V">Hyper-V</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+</span>
+            (60)
+        </div>
+        <div>
+            Updated 9/9/2013
+        </div>
+        <div>
+            Released 3/29/2013
+        </div>
+            <div>
+                68,010
+Downloads            </div>
+
+    <div>
+        
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/Windows-8-app-samples-4d76cbbf">
+                Windows 8 app samples
+            </a>
+        </div>
+                      <div>
+                    <a href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample">
+                        <div class="contributionLogo logo_windows">
+                            <div class="contributionLogoTip">
+                                This sample was verified and tested by Windows SDK team.
+                            </div>
+                        </div>
+                    </a>
+                  
+            <div class="customcontribution">
+                <a class="customcontributionNameLink" href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample&amp;f%5B0%5D.Text=Official%20Windows%20SDK%20Sample">Official Windows SDK Sample</a>
+                <div class="customcontributionLogoTip">
+                    <div>
+                        <div class="customcontributionlogo  logo_windows_large"></div>
+                        <p class="customcontributionTittle">Official Windows SDK Sample MSFT</p>
+                    </div>
+                    <div class="clear"></div>
+                    <p class="customcontributionDiscription">Windows SDK samples are developed and tested by the Windows team to ensure that you have a great experience.</p>
+                    <a class="customcontributionLink" href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample&amp;f%5B0%5D.Text=Official%20Windows%20SDK%20Sample">View samples</a>
+                </div>
+            </div>
+
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            This sample pack includes all the app code examples developed and updated for Windows 8. The sample pack provides a convenient way to download all the samples at once. The samples in this sample pack are available in C#, C++, VB.NET, and JavaScript.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=XAML&amp;f%5B0%5D.Text=XAML">XAML</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=HTML5&amp;f%5B0%5D.Text=HTML5">HTML5</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Runtime&amp;f%5B0%5D.Text=Windows%20Runtime">Windows Runtime</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="HalfRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="EmptyRatingStar" />
+</span>
+            (15)
+        </div>
+        <div>
+            Updated 10/17/2013
+        </div>
+        <div>
+            Released 10/17/2013
+        </div>
+            <div>
+                31,712
+Downloads            </div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=VB">VB.NET</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%2B%2B">C++</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=JavaScript">JavaScript</a>
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/Local-Database-Sample-57b1614c">
+                Local Database Sample
+            </a>
+        </div>
+                      <div>
+                    <a href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Windows%20Phone%20SDK%20Team">
+                        <div class="contributionLogo logo_windowsphone">
+                            <div class="contributionLogoTip">
+                                This sample was verified and tested by Windows Phone SDK Team.
+                            </div>
+                        </div>
+                    </a>
+                  
+            <div class="customcontribution">
+                <a class="customcontributionNameLink" href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Windows%20Phone%20SDK%20Team&amp;f%5B0%5D.Text=Windows%20Phone%20SDK%20Team">Windows Phone SDK Team</a>
+                <div class="customcontributionLogoTip">
+                    <div>
+                        <div class="customcontributionlogo  logo_windowsphone_large"></div>
+                        <p class="customcontributionTittle">Windows Phone SDK Team MSFT</p>
+                    </div>
+                    <div class="clear"></div>
+                    <p class="customcontributionDiscription">Windows Phone SDK samples are developed and tested by the Windows Phone SDK Team to ensure that you have a great experience.</p>
+                    <a class="customcontributionLink" href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Windows%20Phone%20SDK%20Team&amp;f%5B0%5D.Text=Windows%20Phone%20SDK%20Team">View samples</a>
+                </div>
+            </div>
+
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            This sample shows you how to use LINQ to SQL to store relational data in a local database that resides in your app&amp;#8217;s storage container.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Phone%207.5&amp;f%5B0%5D.Text=Windows%20Phone%207.5">Windows Phone 7.5</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Phone%208&amp;f%5B0%5D.Text=Windows%20Phone%208">Windows Phone 8</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="HalfRatingStar" />
+</span>
+            (45)
+        </div>
+        <div>
+            Updated 5/4/2013
+        </div>
+        <div>
+            Released 8/1/2012
+        </div>
+            <div>
+                103,611
+Downloads            </div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=VB">VB.NET</a>
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/ASPNET-MVC-Application-b01a9fe8">
+                ASP.NET MVC Application Using Entity Framework Code First
+            </a>
+        </div>
+                      <div>
+                  
+
+            <a class="profile-usercard-hover" data-profile-userid="16ab5bd5-0be0-4eee-b8e7-1abd3baad83c" data-profile-usercard-customlink='{&quot;href&quot;:&quot;/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Tom%20Dykstra%20-%20MSFT&quot;,&quot;text&quot;:&quot;View samples&quot;}' href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Tom%20Dykstra%20-%20MSFT&amp;f%5B0%5D.Text=Tom%20Dykstra%20-%20MSFT">Tom Dykstra - MSFT
+    </a>
+    <script language="javascript" type="text/javascript">
+//<![CDATA[
+
+        if (false)
+            Galleries.utility.waitFor(
+                function() { $('.profile-points-bar, .profile-usercard-profileLink').hide(); });
+    
+//]]>//
+</script>
+               
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            A Visual Studio project which shows how to use the Entity Framework 5 in an ASP.NET&amp;#160;MVC 4 web application project, using the&amp;#160;Code First&amp;#160;developme<wbr />nt approach.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=ADO.NET%20Entity%20Framework&amp;f%5B0%5D.Text=ADO.NET%20Entity%20Framework">ADO.NET Entity Framework</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=ASP.NET&amp;f%5B0%5D.Text=ASP.NET">ASP.NET</a>, <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=ASP.NET%20MVC&amp;f%5B0%5D.Text=ASP.NET%20MVC">ASP.NET MVC</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="HalfRatingStar" />
+</span>
+            (85)
+        </div>
+        <div>
+            Updated 11/1/2013
+        </div>
+        <div>
+            Released 4/12/2011
+        </div>
+            <div>
+                203,493
+Downloads            </div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>
+    </div>
+    </td>
+</tr>
+
+
+
+
+
+
+<tr class="itemRow">
+    
+    <td class="itemBody">
+        
+
+        <div class="itemTitle">
+            <a href="/File-access-sample-d723e597">
+                File access sample
+            </a>
+        </div>
+                      <div>
+                    <a href="/site/search?f%5B0%5D.Type=User&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample">
+                        <div class="contributionLogo logo_windows">
+                            <div class="contributionLogoTip">
+                                This sample was verified and tested by Windows SDK team.
+                            </div>
+                        </div>
+                    </a>
+                  
+            <div class="customcontribution">
+                <a class="customcontributionNameLink" href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample&amp;f%5B0%5D.Text=Official%20Windows%20SDK%20Sample">Official Windows SDK Sample</a>
+                <div class="customcontributionLogoTip">
+                    <div>
+                        <div class="customcontributionlogo  logo_windows_large"></div>
+                        <p class="customcontributionTittle">Official Windows SDK Sample MSFT</p>
+                    </div>
+                    <div class="clear"></div>
+                    <p class="customcontributionDiscription">Windows SDK samples are developed and tested by the Windows team to ensure that you have a great experience.</p>
+                    <a class="customcontributionLink" href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Official%20Windows%20SDK%20Sample&amp;f%5B0%5D.Text=Official%20Windows%20SDK%20Sample">View samples</a>
+                </div>
+            </div>
+
+    <a href="/site/search?f%5B0%5D.Type=Contributors&amp;f%5B0%5D.Value=Microsoft&amp;f%5B0%5D.Text=Microsoft" class="officialMicrosoftLabel">- Microsoft</a>
+
+              </div>
+        <div class="summaryBox">
+            This sample shows how to create, read, write, copy and delete a file, how to retrieve file properties, and how to track a file or folder so that your app can access it again. This sample uses Windows.Storage and Windows.Storage<wbr />.AccessCache API.
+        </div>
+        
+    <div>
+        
+
+
+
+    <div class="itemBarLong tagsContainer">
+        <label for="Technologies">Technologies</label>
+        <div id="Technologies">
+            <a href="/site/search?f%5B0%5D.Type=Technology&amp;f%5B0%5D.Value=Windows%20Runtime&amp;f%5B0%5D.Text=Windows%20Runtime">Windows Runtime</a>
+        </div>
+    </div>
+
+ 
+    </div>
+
+    </td>
+    <td class="itemInfo">
+        <div>
+            <span class="Rating"><img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="FilledRatingStar" />
+<img src="http://i1.code.msdn.s-msft.com/content/common/trans.gif" class="EmptyRatingStar" />
+</span>
+            (41)
+        </div>
+        <div>
+            Updated 11/26/2013
+        </div>
+        <div>
+            Released 9/14/2011
+        </div>
+            <div>
+                134,871
+Downloads            </div>
+
+    <div>
+         <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%23">C#</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=VB">VB.NET</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=C%2B%2B">C++</a>, <a href="/site/search?f%5B0%5D.Type=ProgrammingLanguage&amp;f%5B0%5D.Value=JavaScript">JavaScript</a>
+    </div>
+    </td>
+</tr>
+
+                <tr>
+                    <td colspan="3">
+                        
+    <div id="directoryListFooter">
+        <h4>Couldn&amp;#39;t find the sample you were looking for?</h4>
+        <div><a href="/site/requests">Click here to search and vote for a sample request.</a></div>
+    </div>
+
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td colspan="3" style="text-align: center; padding-top: .75em; padding-bottom: .75em;">
+                        <div id="Pager">
+    <div class="summary">
+        1 - 10
+        of
+        6980
+        Items
+        &amp;nbsp;&amp;nbsp;
+    </div>
+    <div class="pagerLinks">
+&amp;#171; First        &amp;nbsp;
+&lt; Prev        &amp;nbsp;
+               &amp;nbsp;1&amp;nbsp;
+                <a href="/site/search?pageIndex=2" class="Link">2</a>&amp;nbsp; 
+                <a href="/site/search?pageIndex=3" class="Link">3</a>&amp;nbsp; 
+                <a href="/site/search?pageIndex=4" class="Link">4</a>&amp;nbsp; 
+                <a href="/site/search?pageIndex=5" class="Link">5</a>&amp;nbsp; 
+                <a href="/site/search?pageIndex=6" class="Link">6</a>&amp;nbsp; 
+                <a href="/site/search?pageIndex=7" class="Link">7</a>&amp;nbsp; 
+                <a href="/site/search?pageIndex=8" class="Link">8</a>&amp;nbsp; 
+                <a href="/site/search?pageIndex=9" class="Link">9</a>&amp;nbsp; 
+                <a href="/site/search?pageIndex=10" class="Link">10</a>&amp;nbsp; 
+        &amp;nbsp;
+            <a href="/site/search?pageIndex=2" class="Link">Next &gt;</a>
+        &amp;nbsp;
+            <a href="/site/search?pageIndex=698" class="Link">Last &amp;#187;</a>
+    </div>
+</div>
+                    </td>
+                </tr>
+                
+            </table>
+        </div>
+    </div>
+</div>
+<a href="/site/search" id="aSortBy" style="display:none;">&amp;nbsp;</a>
+<script type="text/javascript">
+//<![CDATA[
+
+    $(function() { attachSortHandler('SortBy', 'aSortBy', 0 );});
+    $(document).ready(function() {attachLogoTooltipHandler(); attachCustomLogoHandler();});
+
+//]]>//
+</script>
+
+
+            </div>
+        </div>
+    </div>
+
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="advertisment">
+        
+    </div>
+
+                                    <div class="Clear"></div>
+                                </div>
+    
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="Clearbottom"></div>          
+                    <div class="bottomleftcorner"></div>            
+                    <div class="bottomrightcorner"></div> 
+                    
+                     
+                    
+
+                           
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<div data-chameleon-template="epxfooter"></div>
+<div data-chameleon-template="footer">        
+<div id="ux-footer" class="" style="" xmlns="http://www.w3.org/1999/xhtml">
+    <footer class="top">
+        <div data-fragmentname="LeftLinks" id="Fragment_LeftLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="LinkList">
+    <div class="LinkListTitle">Dev centers</div>
+    <div class="Links">
+      <ul class="LinkColumn" style="width: 100%">
+        <li>
+          <a href="http://msdn.microsoft.com/windows" id="27861_1" class="windowsBlue" xmlns="http://www.w3.org/1999/xhtml">Windows</a>
+        </li>
+        <li>
+          <a href="http://dev.windowsphone.com/" id="27861_2" class="windowsPurple" xmlns="http://www.w3.org/1999/xhtml">Windows Phone</a>
+        </li>
+        <li>
+          <a href="http://msdn.microsoft.com/office" id="27861_3" class="office" xmlns="http://www.w3.org/1999/xhtml">Office</a>
+        </li>
+        <li>
+          <a href="http://www.windowsazure.com/en-us/documentation/" id="27861_4" class="windowsBlue" xmlns="http://www.w3.org/1999/xhtml">Windows Azure</a>
+        </li>
+        <li>
+          <a href="http://msdn.microsoft.com/vstudio" id="27861_5" class="visualStudio" xmlns="http://www.w3.org/1999/xhtml">Visual Studio</a>
+        </li>
+        <li>
+          <a href="http://msdn.microsoft.com/aa937802" id="27861_6" xmlns="http://www.w3.org/1999/xhtml">More...</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>    
+        <div id="rightLinks">
+            <div data-fragmentname="CenterLinks1" id="Fragment_CenterLinks1" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="LinkList">
+    <div class="LinkListTitle">Learning resources</div>
+    <div class="LinkListDescription"></div>
+    <div class="Links">
+      <ul class="LinkColumn" style="width: 100%">
+        <li>
+          <a href="http://www.microsoftvirtualacademy.com/" id="27861_14" xmlns="http://www.w3.org/1999/xhtml">Microsoft Virtual Academy</a>
+        </li>
+        <li>
+          <a href="http://channel9.msdn.com/" id="27861_16" xmlns="http://www.w3.org/1999/xhtml">Channel 9</a>
+        </li>
+        <li>
+          <a href="http://www.interoperabilitybridges.com/" id="27861_17" xmlns="http://www.w3.org/1999/xhtml">Interoperability Bridges</a>
+        </li>
+        <li>
+          <a href="http://msdn.microsoft.com/magazine/" id="CenterLinks1_427_33" xmlns="http://www.w3.org/1999/xhtml">MSDN Magazine</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+            <div data-fragmentname="CenterLinks2" id="Fragment_CenterLinks2" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="LinkList">
+    <div class="LinkListTitle">Community</div>
+    <div class="LinkListDescription"></div>
+    <div class="Links">
+      <ul class="LinkColumn" style="width: 100%">
+        <li>
+          <a href="http://social.msdn.microsoft.com/forums/en-us/home" id="27861_19" xmlns="http://www.w3.org/1999/xhtml">Forums</a>
+        </li>
+        <li>
+          <a href="http://blogs.msdn.com/b/developer-tools/" id="27861_20" xmlns="http://www.w3.org/1999/xhtml">Blogs</a>
+        </li>
+        <li>
+          <a href="http://www.codeplex.com" id="27861_22" xmlns="http://www.w3.org/1999/xhtml">Codeplex</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+            <div data-fragmentname="CenterLinks3" id="Fragment_CenterLinks3" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="LinkList">
+    <div class="LinkListTitle">Support</div>
+    <div class="LinkListDescription"></div>
+    <div class="Links">
+      <ul class="LinkColumn" style="width: 100%">
+        <li>
+          <a href="http://msdn.microsoft.com/hh361695" id="CenterLinks3_427_34" xmlns="http://www.w3.org/1999/xhtml">Self support</a>
+        </li>
+        <li>
+          <a href="http://support.microsoft.com/" id="27861_24" xmlns="http://www.w3.org/1999/xhtml">Other support options</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+            <div data-fragmentname="CenterLinks4" id="Fragment_CenterLinks4" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="LinkList">
+    <div class="LinkListTitle">Programs</div>
+    <div class="LinkListDescription"></div>
+    <div class="Links">
+      <ul class="LinkColumn" style="width: 100%">
+        <li>
+          <a href="http://www.microsoft.com/bizspark/" id="27861_27" xmlns="http://www.w3.org/1999/xhtml">BizSpark (for startups)</a>
+        </li>
+        <li>
+          <a href="https://www.dreamspark.com/" id="27861_28" xmlns="http://www.w3.org/1999/xhtml">DreamSpark</a>
+        </li>
+        <li>
+          <a href="https://www.microsoft.com/faculty" id="27861_29" xmlns="http://www.w3.org/1999/xhtml">Faculty Connection</a>
+        </li>
+        <li>
+          <a href="http://www.microsoft.com/student/" id="CenterLinks4_427_32" xmlns="http://www.w3.org/1999/xhtml">Microsoft Student</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+        </div>
+    </footer>
+    
+    <footer class="bottom">
+        <span class="localeContainer">
+                <form class="selectLocale" id="selectLocaleForm" action="http://msdn.microsoft.com/en-US/selectlocale-dmc" />
+        <input type="hidden" name="fromPage" value="http%3a%2f%2fcode.msdn.microsoft.com%2f" />
+        <a href="#" onclick="$('#selectLocaleForm').submit();return false;" title="Change your language">United States (English)</a>
+    &lt;/form&gt;    
+
+
+        </span>
+        
+        <div data-fragmentname="BottomLinks" id="Fragment_BottomLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="LinkList">
+    <div class="LinkListDescription"></div>
+    <div class="Links">
+      <ul class="LinkColumn horizontal">
+        <li>
+          <a href="http://msdn.microsoft.com/newsletter.aspx" id="27861_8" xmlns="http://www.w3.org/1999/xhtml">Newsletter</a>
+        </li>
+        <li>
+          <a href="http://msdn.microsoft.com/dn529288" id="27861_10" xmlns="http://www.w3.org/1999/xhtml">Privacy &amp; cookies</a>
+        </li>
+        <li>
+          <a href="http://msdn.microsoft.com/cc300389.aspx" id="27861_11" xmlns="http://www.w3.org/1999/xhtml">Terms of Use</a>
+        </li>
+        <li>
+          <a href="http://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx" id="27861_12" xmlns="http://www.w3.org/1999/xhtml">Trademarks</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>    
+        <span class="logoLegal">
+            <span class="logo"></span>
+            <span class="copyright">© 2014 Microsoft</span>
+        </span>
+    </footer>
+</div>
+    
+<script type="text/javascript" xmlns="http://www.w3.org/1999/xhtml">
+//<![CDATA[
+
+/*&lt;![CDATA[*/
+/**/
+(window.MTPS || (window.MTPS = {})).cdnDomains || (window.MTPS.cdnDomains = { 
+	&quot;image&quot;: &quot;http://i.msdn.microsoft.com&quot;, 
+	&quot;js&quot;: &quot;http://i2.msdn.microsoft.com&quot;, 
+	&quot;css&quot;: &quot;http://i3.msdn.microsoft.com&quot;
+});
+/**/
+/*]]&gt;*/
+
+//]]>//
+</script><script type="text/javascript" src="http://i2.msdn.microsoft.com/Areas/Centers/Themes/MsdnBase/Content/Footer.js" xmlns="http://www.w3.org/1999/xhtml">
+//<![CDATA[
+
+//]]>//
+</script></div>  
+    <div data-chameleon-template="megablade"></div>
+    
+    <script type="text/javascript">
+//<![CDATA[
+
+        Galleries.utility.loadJavaScript(&quot;http://widgets.membership.s-msft.com/v1/loader.js?brand=Msdn&amp;lang=en-US&quot;, true);
+        Galleries.utility.loadJavaScript('http://js.microsoft.com/library/svy/sto/broker.js', true);
+    
+//]]>//
+</script>    
+
+    
+    <script src="http://i1.code.msdn.s-msft.com/RequestReduceContent/c8e880a08198192649f9b47b92426cc1-6143d45df2ee01b890d545446a5fde77-RequestReducedScript.js" type="text/javascript">
+//<![CDATA[
+
+//]]>//
+</script>        
+                        <noscript><a href="http://www.omniture.com" title="Web Analytics">
+        <img src="http://msstonojssocial.112.2O7.net/b/ss/msstonojssocial/1/H.20.2--NS/0" height="1" width="1" alt="" />
+        </a></noscript>
+    
+</body>
+</html>
+</span>

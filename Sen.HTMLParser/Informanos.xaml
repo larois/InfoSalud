@@ -1,0 +1,61 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sen.HTMLParser.Informanos"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False"
+    
+    xmlns:telerikInput="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Input"
+    xmlns:telerikCore="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Core"
+    telerikCore:InteractionEffectManager.IsInteractionEnabled="True"
+    >
+    
+        <StackPanel x:Name="LayoutRoot" Background="White">
+        <TextBlock Text="InfoSalud" FontSize="27" Margin="20,10,0,0" Foreground="#FF59B0F4"/>
+        <TextBlock Text="Farmacias de Turno" FontSize="35" Margin="20,10,0,0" Foreground="#FFFF3F42"/>
+
+        <ScrollViewer Height="621">
+            <StackPanel>
+                <TextBlock Text="Nombre de Farmacia" Foreground="#FF5B5B5B" FontSize="25" Margin="20,20,0,0"/>
+                <TextBlock Name="txtNombre" Foreground="Gray" Margin="40,0,0,0" FontSize="22"/>
+
+                <TextBlock Text="Direccion" Foreground="#FF5B5B5B" FontSize="25" Margin="20,20,0,0"/>
+                <TextBlock Name="txtDireccion" Foreground="Gray" Margin="40,0,0,0" FontSize="22"/>
+
+                <TextBlock Text="Tu Email" Foreground="#FF5B5B5B" FontSize="25" Margin="20,15,0,0"/>
+                <TextBox InputScope="EmailUserName" Name="txtMail" BorderBrush="Gray" Foreground="Gray" Margin="25,0,25,0" FontSize="22"/>
+
+
+                <TextBlock Text="Motivo" Foreground="#FF5B5B5B" FontSize="25" Margin="20,15,0,0"/>
+                <telerikInput:RadListPicker InlineModeThreshold="6" x:Name="listPicker2" Margin="40,5,40,0" BorderBrush="Gray" SelectionChanged="listPicker2_SelectionChanged">
+                    <telerikInput:RadListPicker.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding XMotivo}" Margin="20 -3 0 0" Foreground="Gray"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </telerikInput:RadListPicker.ItemTemplate>
+                </telerikInput:RadListPicker>
+
+                <TextBlock Text="Comentarios" Foreground="#FF5B5B5B" FontSize="25" Margin="20,15,0,0"/>
+                <TextBox Name="txtComentarios" AcceptsReturn="True" Foreground="Gray" VerticalScrollBarVisibility="Visible" Margin="30,0,30,0" FontSize="22" MaxHeight="300" Height="200" TextWrapping="Wrap" BorderBrush="Gray"/>
+            </StackPanel>
+        </ScrollViewer>
+    </StackPanel>
+   
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar BackgroundColor="Red"  IsVisible="True" IsMenuEnabled="True" >
+            <shell:ApplicationBarIconButton Click="Info_Click"  Text="Enviar" IconUri="/Images/Check.png" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

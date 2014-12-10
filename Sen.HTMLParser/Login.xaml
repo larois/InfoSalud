@@ -1,0 +1,43 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sen.HTMLParser.Login"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False"
+    xmlns:facebookControls="clr-namespace:Facebook.Client.Controls;assembly=Facebook.Client"
+    xmlns:telerikCore="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Core"
+    >
+
+
+        <StackPanel x:Name="LayoutRoot" Background="White">
+        <Grid Margin="30,30,0,0">
+            <Image Source="/Images/Icon.png" Height="120" Margin="28,19,270,0"/>
+            <TextBlock Text="InfoSalud" FontSize="40" Margin="185,46,78,39" Foreground="#FF59B0F4"/>
+        </Grid>
+
+        <TextBlock Text="Ingrese su RUN" Foreground="Gray" FontSize="25" Margin="42,40,0,0"/>
+
+        <StackPanel Orientation="Horizontal">
+            <TextBox Name="txtDigito" Foreground="Gray" TextAlignment="Center"  BorderBrush="Gray" Width="300" Margin="30,0,0,0" InputScope="Number"/>
+            <TextBlock Text="-" FontSize="25"  Foreground="Gray" VerticalAlignment="Center"/>
+            <TextBox Name="txtVerificador" Foreground="Gray" BorderBrush="Gray" Width="90" TextAlignment="Center" />
+        </StackPanel>
+        <TextBlock Text="( Sin puntos )" Foreground="Gray" FontStyle="Italic" Margin="291,0,0,40" FontSize="20" Height="40"/>
+        <Button x:Name="btnFace" telerikCore:InteractionEffectManager.IsInteractionEnabled="True" Click="loginqlo_Click" Height="100" Width="410" Style="{StaticResource FaceEstilo}"  >
+        </Button>
+
+        <TextBlock Text="Para poder acceder es necesario que ingrese su RUN" Foreground="Gray" FontStyle="Italic" FontSize="23" TextWrapping="Wrap" Width="310" Margin="0,20,0,0"/>
+
+
+        <HyperlinkButton Content="www.infosalud.cl" NavigateUri="www.infosaludchile.site90.net" Foreground="Gray" Margin="0,150,0,0"/>
+    </StackPanel>
+
+</phone:PhoneApplicationPage>
